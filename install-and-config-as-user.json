@@ -1,0 +1,6958 @@
+{
+  "version": 1,
+  "width": 181,
+  "duration": 317.569,
+  "title": "Installing and Configuring APF as a user",
+  "stdout": [
+    [
+      0.134094,
+      "\u001b[?1034h~ $"
+    ],
+    [
+      0.761817,
+      "#"
+    ],
+    [
+      0.165994,
+      " "
+    ],
+    [
+      0.179993,
+      "L"
+    ],
+    [
+      0.106999,
+      "e"
+    ],
+    [
+      0.175001,
+      "t"
+    ],
+    [
+      0.365995,
+      "'s"
+    ],
+    [
+      0.081999,
+      " "
+    ],
+    [
+      0.216002,
+      "i"
+    ],
+    [
+      0.064001,
+      "n"
+    ],
+    [
+      0.041997,
+      "s"
+    ],
+    [
+      0.257005,
+      "t"
+    ],
+    [
+      0.037,
+      "a"
+    ],
+    [
+      0.080001,
+      "l"
+    ],
+    [
+      0.133993,
+      "l"
+    ],
+    [
+      0.052,
+      " "
+    ],
+    [
+      0.153005,
+      "A"
+    ],
+    [
+      0.118001,
+      "P"
+    ],
+    [
+      0.158995,
+      "F"
+    ],
+    [
+      0.132,
+      " "
+    ],
+    [
+      0.214,
+      "a"
+    ],
+    [
+      0.182,
+      "s"
+    ],
+    [
+      0.081001,
+      " "
+    ],
+    [
+      0.128003,
+      "a"
+    ],
+    [
+      0.111995,
+      " "
+    ],
+    [
+      0.183009,
+      "u"
+    ],
+    [
+      0.060993,
+      "s"
+    ],
+    [
+      0.154998,
+      "e"
+    ],
+    [
+      0.193002,
+      "r"
+    ],
+    [
+      0.04,
+      " "
+    ],
+    [
+      0.094998,
+      "a"
+    ],
+    [
+      0.073001,
+      "n"
+    ],
+    [
+      0.079,
+      "d"
+    ],
+    [
+      0.087998,
+      " "
+    ],
+    [
+      0.117006,
+      "c"
+    ],
+    [
+      0.093995,
+      "o"
+    ],
+    [
+      0.049998,
+      "n"
+    ],
+    [
+      0.052003,
+      "f"
+    ],
+    [
+      0.111,
+      "i"
+    ],
+    [
+      0.079999,
+      "g"
+    ],
+    [
+      0.118004,
+      "u"
+    ],
+    [
+      0.131001,
+      "r"
+    ],
+    [
+      0.087995,
+      "e"
+    ],
+    [
+      0.079,
+      " "
+    ],
+    [
+      0.096,
+      "i"
+    ],
+    [
+      0.120001,
+      "t"
+    ],
+    [
+      0.084999,
+      " "
+    ],
+    [
+      0.252,
+      "t"
+    ],
+    [
+      0.076,
+      "o"
+    ],
+    [
+      0.053005,
+      " "
+    ],
+    [
+      0.174995,
+      "u"
+    ],
+    [
+      0.085,
+      "s"
+    ],
+    [
+      0.14,
+      "e"
+    ],
+    [
+      0.039,
+      " "
+    ],
+    [
+      0.127,
+      "t"
+    ],
+    [
+      0.067,
+      "h"
+    ],
+    [
+      0.131001,
+      "e"
+    ],
+    [
+      0.033998,
+      " "
+    ],
+    [
+      0.114001,
+      "l"
+    ],
+    [
+      0.142,
+      "o"
+    ],
+    [
+      0.056,
+      "c"
+    ],
+    [
+      0.066,
+      "a"
+    ],
+    [
+      0.084,
+      "l"
+    ],
+    [
+      0.051,
+      " "
+    ],
+    [
+      0.079,
+      "c"
+    ],
+    [
+      0.136001,
+      "o"
+    ],
+    [
+      0.040999,
+      "n"
+    ],
+    [
+      0.071,
+      "d"
+    ],
+    [
+      0.081,
+      "o"
+    ],
+    [
+      0.128,
+      "r"
+    ],
+    [
+      0.055001,
+      " "
+    ],
+    [
+      0.097,
+      "p"
+    ],
+    [
+      0.099999,
+      "o"
+    ],
+    [
+      0.811,
+      "o"
+    ],
+    [
+      0.256,
+      "l"
+    ],
+    [
+      0.088,
+      " "
+    ],
+    [
+      0.236002,
+      "i"
+    ],
+    [
+      0.051998,
+      "n"
+    ],
+    [
+      0.041,
+      " "
+    ],
+    [
+      0.096,
+      "t"
+    ],
+    [
+      0.138,
+      "h"
+    ],
+    [
+      0.045,
+      "i"
+    ],
+    [
+      0.112,
+      "s"
+    ],
+    [
+      0.048,
+      " "
+    ],
+    [
+      0.152,
+      "h"
+    ],
+    [
+      0.101003,
+      "e"
+    ],
+    [
+      0.034997,
+      "a"
+    ],
+    [
+      0.186,
+      "d"
+    ],
+    [
+      0.369,
+      "n"
+    ],
+    [
+      0.063,
+      "o"
+    ],
+    [
+      0.079999,
+      "d"
+    ],
+    [
+      0.352,
+      "e"
+    ],
+    [
+      0.104001,
+      " "
+    ],
+    [
+      0.103005,
+      "w"
+    ],
+    [
+      0.097994,
+      "i"
+    ],
+    [
+      0.117004,
+      "t"
+    ],
+    [
+      0.055995,
+      "h"
+    ],
+    [
+      0.092,
+      " "
+    ],
+    [
+      0.054,
+      "t"
+    ],
+    [
+      0.09,
+      "h"
+    ],
+    [
+      0.1,
+      "e"
+    ],
+    [
+      0.048,
+      " "
+    ],
+    [
+      0.157,
+      "v"
+    ],
+    [
+      0.207,
+      "c"
+    ],
+    [
+      0.241,
+      "3"
+    ],
+    [
+      0.116,
+      "-"
+    ],
+    [
+      0.216,
+      "p"
+    ],
+    [
+      0.070999,
+      "i"
+    ],
+    [
+      0.186002,
+      "l"
+    ],
+    [
+      0.134,
+      "o"
+    ],
+    [
+      0.337999,
+      "t"
+    ],
+    [
+      0.592007,
+      "\r\n~ $"
+    ],
+    [
+      0.677994,
+      "w"
+    ],
+    [
+      0.087999,
+      "h"
+    ],
+    [
+      0.040005,
+      "o"
+    ],
+    [
+      0.103995,
+      "a"
+    ],
+    [
+      0.099009,
+      "m"
+    ],
+    [
+      0.028991,
+      "i"
+    ],
+    [
+      0.160056,
+      "\r\n"
+    ],
+    [
+      0.001907,
+      "khurtado\r\n"
+    ],
+    [
+      6.5e-05,
+      "~ $"
+    ],
+    [
+      0.382878,
+      "#"
+    ],
+    [
+      0.27299,
+      " "
+    ],
+    [
+      0.286001,
+      "F"
+    ],
+    [
+      0.172999,
+      "i"
+    ],
+    [
+      0.067,
+      "r"
+    ],
+    [
+      0.167999,
+      "s"
+    ],
+    [
+      0.209,
+      "t"
+    ],
+    [
+      0.148,
+      ","
+    ],
+    [
+      0.052,
+      " "
+    ],
+    [
+      0.063002,
+      "w"
+    ],
+    [
+      0.175998,
+      "e"
+    ],
+    [
+      0.072002,
+      " "
+    ],
+    [
+      0.12,
+      "w"
+    ],
+    [
+      0.072,
+      "i"
+    ],
+    [
+      0.183998,
+      "l"
+    ],
+    [
+      0.136001,
+      "l"
+    ],
+    [
+      0.072,
+      " "
+    ],
+    [
+      1.154001,
+      "c"
+    ],
+    [
+      0.078999,
+      "l"
+    ],
+    [
+      0.158998,
+      "o"
+    ],
+    [
+      0.160001,
+      "n"
+    ],
+    [
+      0.09,
+      "e"
+    ],
+    [
+      0.062,
+      " "
+    ],
+    [
+      0.122,
+      "t"
+    ],
+    [
+      0.055,
+      "h"
+    ],
+    [
+      0.121,
+      "e"
+    ],
+    [
+      0.08,
+      " "
+    ],
+    [
+      0.199001,
+      "A"
+    ],
+    [
+      0.135,
+      "P"
+    ],
+    [
+      0.247998,
+      "F"
+    ],
+    [
+      0.136002,
+      " "
+    ],
+    [
+      0.208,
+      "r"
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.111001,
+      "p"
+    ],
+    [
+      0.064998,
+      "o"
+    ],
+    [
+      0.089001,
+      "s"
+    ],
+    [
+      0.127003,
+      "i"
+    ],
+    [
+      0.183997,
+      "t"
+    ],
+    [
+      0.109999,
+      "o"
+    ],
+    [
+      0.061002,
+      "r"
+    ],
+    [
+      0.197,
+      "y"
+    ],
+    [
+      0.229004,
+      "\r\n~ $"
+    ],
+    [
+      1.261995,
+      "g"
+    ],
+    [
+      0.101999,
+      "i"
+    ],
+    [
+      0.241001,
+      "t"
+    ],
+    [
+      0.063,
+      " "
+    ],
+    [
+      0.190999,
+      "c"
+    ],
+    [
+      0.072,
+      "l"
+    ],
+    [
+      0.120999,
+      "o"
+    ],
+    [
+      0.176,
+      "n"
+    ],
+    [
+      0.089999,
+      "e"
+    ],
+    [
+      0.061002,
+      " "
+    ],
+    [
+      1.5,
+      "https://github.com/PanDAWMS/autopyfactory"
+    ],
+    [
+      0.521995,
+      "\r\n"
+    ],
+    [
+      0.021107,
+      "Initialized empty Git repository in /afs/crc.nd.edu/user/k/khurtado/autopyfactory/.git/\r\n"
+    ],
+    [
+      1.5,
+      "remote: Counting objects: 3139, done.\u001b[K\r\nremote: Compressing objects:   3% (1/30)   \u001b[K\rremote: Compressing objects:   6% (2/30)   \u001b[K\rremote: Compressing objects:  10% (3/30)   \u001b[K\rremote: Compressing objects:  13% (4/30)   \u001b[K\rremote: Compressing objects:  16% (5/30)   \u001b[K\rremote: Compressing objects:  20% (6/30)   \u001b[K\rremote: Compressing objects:  23% (7/30)   \u001b[K\rremote: Compressing objects:  26% (8/30)   \u001b[K\rremote: Compressing objects:  30% (9/30)   \u001b[K\rremote: Compressing objects:  33% (10/30)   \u001b[K\rremote: Compressing objects:  36% (11/30)   \u001b[K\rremote: Compressing objects:  40% (12/30)   \u001b[K\rremote: Compressing objects:  43% (13/30)   \u001b[K\rremote: Compressing objects:  46% (14/30)   \u001b[K\rremote: Compressing objects:  50% (15/30)   \u001b[K\rremote: Compressing objects:  53% (16/30)   \u001b[K\rremote: Compressing objects:  56% (17/30)   \u001b[K\rremote: Compressing objects:  60% (18/30)   \u001b[K\rremote: Compressing objects:  63% (19/30)   \u001b[K\rremote: Compressing objects:  66% (20/30)   \u001b[K\rremote: Compressing objects:  7"
+    ],
+    [
+      4e-05,
+      "0% (21/30)   \u001b[K\rremote: Compressing objects:  73% (22/30)   \u001b[K\rremote: Compressing objects:  76% (23/30)   \u001b[K\rremote: Compressing objects:  80% (24/30)   \u001b[K\rremote: Compressing objects:  83% (25/30)   \u001b[K\rremote: Compressing objects:  86% (26/30)   \u001b[K\rremote: Compressing objects:  90% (27/30)   \u001b[K\rremote: Compressing objects:  93% (28/30)   \u001b[K\rremote: Compressing objects:  96% (29/30)   \u001b[K\rremote: Compressing objects: 100% (30/30)   \u001b[K\rremote: Compressing objects: 100% (30/30), done.\u001b[K\r\n"
+    ],
+    [
+      0.01185,
+      "Receiving objects:   0% (1/3139)   \r"
+    ],
+    [
+      0.001037,
+      "Receiving objects:   1% (32/3139)   \r"
+    ],
+    [
+      0.014978,
+      "Receiving objects:   2% (63/3139)   \r"
+    ],
+    [
+      0.000994,
+      "Receiving objects:   3% (95/3139)   \rReceiving objects:   4% (126/3139)   \r"
+    ],
+    [
+      0.00706,
+      "Receiving objects:   5% (157/3139)   \r"
+    ],
+    [
+      0.000939,
+      "Receiving objects:   6% (189/3139)   \r"
+    ],
+    [
+      0.000984,
+      "Receiving objects:   7% (220/3139)   \r"
+    ],
+    [
+      0.007008,
+      "Receiving objects:   8% (252/3139)   \r"
+    ],
+    [
+      0.00099,
+      "Receiving objects:   9% (283/3139)   \r"
+    ],
+    [
+      0.010009,
+      "Receiving objects:  10% (314/3139)   \r"
+    ],
+    [
+      0.008009,
+      "Receiving objects:  11% (346/3139)   \r"
+    ],
+    [
+      0.000991,
+      "Receiving objects:  12% (377/3139)   \r"
+    ],
+    [
+      0.019014,
+      "Receiving objects:  13% (409/3139)   \r"
+    ],
+    [
+      0.147042,
+      "Receiving objects:  14% (440/3139)   \r"
+    ],
+    [
+      0.002959,
+      "Receiving objects:  15% (471/3139)   \r"
+    ],
+    [
+      0.007,
+      "Receiving objects:  16% (503/3139)   \r"
+    ],
+    [
+      0.010987,
+      "Receiving objects:  17% (534/3139)   \r"
+    ],
+    [
+      0.001,
+      "Receiving objects:  18% (566/3139)   \r"
+    ],
+    [
+      0.000999,
+      "Receiving objects:  19% (597/3139)   \r"
+    ],
+    [
+      0.001006,
+      "Receiving objects:  20% (628/3139)   \r"
+    ],
+    [
+      0.004019,
+      "Receiving objects:  21% (660/3139)   \r"
+    ],
+    [
+      0.000978,
+      "Receiving objects:  22% (691/3139)   \r"
+    ],
+    [
+      0.000998,
+      "Receiving objects:  23% (722/3139)   \rReceiving objects:  24% (754/3139)   \r"
+    ],
+    [
+      0.001005,
+      "Receiving objects:  25% (785/3139)   \rReceiving objects:  26% (817/3139)   \rReceiving objects:  27% (848/3139)   \rReceiving objects:  28% (879/3139)   \rReceiving objects:  29% (911/3139)   \r"
+    ],
+    [
+      0.001008,
+      "Receiving objects:  30% (942/3139)   \rReceiving objects:  31% (974/3139)   \r"
+    ],
+    [
+      0.000976,
+      "Receiving objects:  32% (1005/3139)   \r"
+    ],
+    [
+      0.002005,
+      "Receiving objects:  33% (1036/3139)   \r"
+    ],
+    [
+      0.001004,
+      "Receiving objects:  34% (1068/3139)   \rReceiving objects:  35% (1099/3139)   \r"
+    ],
+    [
+      0.001025,
+      "Receiving objects:  36% (1131/3139)   \r"
+    ],
+    [
+      0.000977,
+      "Receiving objects:  37% (1162/3139)   \r"
+    ],
+    [
+      0.003055,
+      "Receiving objects:  38% (1193/3139)   \rReceiving objects:  39% (1225/3139)   \r"
+    ],
+    [
+      0.000963,
+      "Receiving objects:  40% (1256/3139)   \r"
+    ],
+    [
+      0.001965,
+      "Receiving objects:  41% (1287/3139)   \r"
+    ],
+    [
+      0.002002,
+      "Receiving objects:  42% (1319/3139)   \rReceiving objects:  43% (1350/3139)   \r"
+    ],
+    [
+      0.002001,
+      "Receiving objects:  44% (1382/3139)   \rReceiving objects:  45% (1413/3139)   \rReceiving objects:  46% (1444/3139)   \r"
+    ],
+    [
+      0.003999,
+      "Receiving objects:  47% (1476/3139)   \rReceiving objects:  48% (1507/3139)   \rReceiving objects:  49% (1539/3139)   \r"
+    ],
+    [
+      0.001062,
+      "Receiving objects:  50% (1570/3139)   \r"
+    ],
+    [
+      0.00094,
+      "Receiving objects:  51% (1601/3139)   \rReceiving objects:  52% (1633/3139)   \r"
+    ],
+    [
+      0.000981,
+      "Receiving objects:  53% (1664/3139)   \r"
+    ],
+    [
+      0.002024,
+      "Receiving objects:  54% (1696/3139)   \r"
+    ],
+    [
+      0.000987,
+      "Receiving objects:  55% (1727/3139)   \r"
+    ],
+    [
+      0.001029,
+      "Receiving objects:  56% (1758/3139)   \rReceiving objects:  57% (1790/3139)   \rReceiving objects:  58% (1821/3139)   \r"
+    ],
+    [
+      0.000977,
+      "Receiving objects:  59% (1853/3139)   \rReceiving objects:  60% (1884/3139)   \r"
+    ],
+    [
+      0.001004,
+      "Receiving objects:  61% (1915/3139)   \rReceiving objects:  62% (1947/3139)   \rReceiving objects:  63% (1978/3139)   \r"
+    ],
+    [
+      0.000993,
+      "Receiving objects:  64% (2009/3139)   \rReceiving objects:  65% (2041/3139)   \rReceiving objects:  66% (2072/3139)   \r"
+    ],
+    [
+      0.001008,
+      "Receiving objects:  67% (2104/3139)   \rReceiving objects:  68% (2135/3139)   \rReceiving objects:  69% (2166/3139)   \rReceiving objects:  70% (2198/3139)   \rReceiving objects:  71% (2229/3139)   \rReceiving objects:  72% (2261/3139)   \rReceiving objects:  73% (2292/3139)   \r"
+    ],
+    [
+      0.001408,
+      "Receiving objects:  74% (2323/3139)   \rReceiving objects:  75% (2355/3139)   \rReceiving objects:  76% (2386/3139)   \rReceiving objects:  77% (2418/3139)   \rReceiving objects:  78% (2449/3139)   \rReceiving objects:  79% (2480/3139)   \rReceiving objects:  80% (2512/3139)   \rReceiving objects:  81% (2543/3139)   \r"
+    ],
+    [
+      3.1e-05,
+      "Receiving objects:  82% (2574/3139)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  83% (2606/3139)   \r"
+    ],
+    [
+      0.000557,
+      "Receiving objects:  84% (2637/3139)   \rReceiving objects:  85% (2669/3139)   \rReceiving objects:  86% (2700/3139)   \rReceiving objects:  87% (2731/3139)   \rReceiving objects:  88% (2763/3139)   \rReceiving objects:  89% (2794/3139)   \rReceiving objects:  90% (2826/3139)   \r"
+    ],
+    [
+      0.000965,
+      "Receiving objects:  91% (2857/3139)   \rReceiving objects:  92% (2888/3139)   \rReceiving objects:  93% (2920/3139)   \rReceiving objects:  94% (2951/3139)   \r"
+    ],
+    [
+      0.001027,
+      "remote: Total 3139 (delta 15), reused 0 (delta 0), pack-reused 3109\u001b[K\r\nReceiving objects:  95% (2983/3139)   \r"
+    ],
+    [
+      0.000976,
+      "Receiving objects:  96% (3014/3139)   \rReceiving objects:  97% (3045/3139)   \rReceiving objects:  98% (3077/3139)   \rReceiving objects:  99% (3108/3139)   \r"
+    ],
+    [
+      0.001026,
+      "Receiving objects: 100% (3139/3139)   \rReceiving objects: 100% (3139/3139), 1.71 MiB, done.\r\n"
+    ],
+    [
+      0.000968,
+      "Resolving deltas:   0% (0/2283)   \r"
+    ],
+    [
+      0.002002,
+      "Resolving deltas:   2% (53/2283)   \rResolving deltas:   3% (72/2283)   \r"
+    ],
+    [
+      0.001009,
+      "Resolving deltas:   5% (134/2283)   \r"
+    ],
+    [
+      0.016994,
+      "Resolving deltas:  10% (244/2283)   \rResolving deltas:  11% (253/2283)   \r"
+    ],
+    [
+      0.004001,
+      "Resolving deltas:  15% (358/2283)   \r"
+    ],
+    [
+      0.000998,
+      "Resolving deltas:  16% (368/2283)   \r"
+    ],
+    [
+      0.00202,
+      "Resolving deltas:  17% (395/2283)   \r"
+    ],
+    [
+      0.004973,
+      "Resolving deltas:  18% (425/2283)   \r"
+    ],
+    [
+      0.002009,
+      "Resolving deltas:  23% (536/2283)   \r"
+    ],
+    [
+      0.002999,
+      "Resolving deltas:  24% (569/2283)   \r"
+    ],
+    [
+      0.000993,
+      "Resolving deltas:  25% (592/2283)   \r"
+    ],
+    [
+      0.001029,
+      "Resolving deltas:  26% (597/2283)   \r"
+    ],
+    [
+      0.001969,
+      "Resolving deltas:  27% (625/2283)   \r"
+    ],
+    [
+      0.003009,
+      "Resolving deltas:  28% (651/2283)   \r"
+    ],
+    [
+      0.018003,
+      "Resolving deltas:  33% (763/2283)   \r"
+    ],
+    [
+      0.000999,
+      "Resolving deltas:  34% (779/2283)   \r"
+    ],
+    [
+      0.002998,
+      "Resolving deltas:  35% (813/2283)   \r"
+    ],
+    [
+      0.001002,
+      "Resolving deltas:  36% (833/2283)   \r"
+    ],
+    [
+      0.001016,
+      "Resolving deltas:  37% (861/2283)   \r"
+    ],
+    [
+      0.000973,
+      "Resolving deltas:  38% (871/2283)   \r"
+    ],
+    [
+      0.001009,
+      "Resolving deltas:  39% (895/2283)   \r"
+    ],
+    [
+      0.001024,
+      "Resolving deltas:  40% (920/2283)   \r"
+    ],
+    [
+      0.000975,
+      "Resolving deltas:  41% (945/2283)   \r"
+    ],
+    [
+      0.002001,
+      "Resolving deltas:  42% (963/2283)   \r"
+    ],
+    [
+      0.001997,
+      "Resolving deltas:  43% (984/2283)   \r"
+    ],
+    [
+      0.001002,
+      "Resolving deltas:  44% (1023/2283)   \r"
+    ],
+    [
+      0.002022,
+      "Resolving deltas:  45% (1031/2283)   \r"
+    ],
+    [
+      0.001984,
+      "Resolving deltas:  46% (1052/2283)   \r"
+    ],
+    [
+      0.000998,
+      "Resolving deltas:  47% (1083/2283)   \r"
+    ],
+    [
+      0.001022,
+      "Resolving deltas:  48% (1103/2283)   \r"
+    ],
+    [
+      0.000963,
+      "Resolving deltas:  49% (1121/2283)   \r"
+    ],
+    [
+      0.001012,
+      "Resolving deltas:  50% (1148/2283)   \r"
+    ],
+    [
+      0.000998,
+      "Resolving deltas:  51% (1165/2283)   \rResolving deltas:  52% (1190/2283)   \r"
+    ],
+    [
+      0.002003,
+      "Resolving deltas:  53% (1222/2283)   \rResolving deltas:  54% (1233/2283)   \r"
+    ],
+    [
+      0.005071,
+      "Resolving deltas:  64% (1478/2283)   \rResolving deltas:  65% (1506/2283)   \r"
+    ],
+    [
+      8e-05,
+      "Resolving deltas:  66% (1507/2283)   \r"
+    ],
+    [
+      0.000845,
+      "Resolving deltas:  67% (1531/2283)   \r"
+    ],
+    [
+      0.002028,
+      "Resolving deltas:  68% (1560/2283)   \r"
+    ],
+    [
+      0.001979,
+      "Resolving deltas:  69% (1581/2283)   \rResolving deltas:  70% (1600/2283)   \r"
+    ],
+    [
+      0.002999,
+      "Resolving deltas:  71% (1633/2283)   \r"
+    ],
+    [
+      0.001,
+      "Resolving deltas:  72% (1646/2283)   \r"
+    ],
+    [
+      0.001991,
+      "Resolving deltas:  75% (1724/2283)   \r"
+    ],
+    [
+      0.003029,
+      "Resolving deltas:  76% (1748/2283)   \rResolving deltas:  77% (1760/2283)   \r"
+    ],
+    [
+      0.001977,
+      "Resolving deltas:  78% (1783/2283)   \r"
+    ],
+    [
+      0.001002,
+      "Resolving deltas:  79% (1820/2283)   \rResolving deltas:  80% (1830/2283)   \r"
+    ],
+    [
+      0.001014,
+      "Resolving deltas:  81% (1856/2283)   \r"
+    ],
+    [
+      0.000978,
+      "Resolving deltas:  82% (1873/2283)   \r"
+    ],
+    [
+      0.001009,
+      "Resolving deltas:  83% (1898/2283)   \r"
+    ],
+    [
+      0.001003,
+      "Resolving deltas:  85% (1946/2283)   \r"
+    ],
+    [
+      0.001011,
+      "Resolving deltas:  86% (1969/2283)   \r"
+    ],
+    [
+      0.001986,
+      "Resolving deltas:  87% (1987/2283)   \r"
+    ],
+    [
+      0.001001,
+      "Resolving deltas:  89% (2036/2283)   \rResolving deltas:  90% (2062/2283)   \r"
+    ],
+    [
+      0.001016,
+      "Resolving deltas:  91% (2084/2283)   \rResolving deltas:  92% (2102/2283)   \r"
+    ],
+    [
+      0.001087,
+      "Resolving deltas:  93% (2124/2283)   \r"
+    ],
+    [
+      0.001906,
+      "Resolving deltas:  98% (2244/2283)   \r"
+    ],
+    [
+      0.000151,
+      "Resolving deltas:  99% (2263/2283)   \r"
+    ],
+    [
+      0.002851,
+      "Resolving deltas: 100% (2283/2283)   \rResolving deltas: 100% (2283/2283), done.\r\n"
+    ],
+    [
+      0.279973,
+      "~ $"
+    ],
+    [
+      1.361997,
+      "c"
+    ],
+    [
+      0.047998,
+      "d"
+    ],
+    [
+      0.121999,
+      " "
+    ],
+    [
+      0.136,
+      "a"
+    ],
+    [
+      0.144,
+      "u"
+    ],
+    [
+      0.15,
+      "t"
+    ],
+    [
+      0.067,
+      "o"
+    ],
+    [
+      0.177,
+      "p"
+    ],
+    [
+      0.097,
+      "y"
+    ],
+    [
+      0.585003,
+      "f"
+    ],
+    [
+      0.019997,
+      "a"
+    ],
+    [
+      0.182,
+      "c"
+    ],
+    [
+      0.18,
+      "t"
+    ],
+    [
+      0.071,
+      "o"
+    ],
+    [
+      0.079,
+      "r"
+    ],
+    [
+      0.201,
+      "y"
+    ],
+    [
+      0.260005,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.164996,
+      "#"
+    ],
+    [
+      0.118,
+      " "
+    ],
+    [
+      0.193088,
+      "N"
+    ],
+    [
+      0.150912,
+      "o"
+    ],
+    [
+      0.142,
+      "w"
+    ],
+    [
+      0.309,
+      ","
+    ],
+    [
+      0.053,
+      " "
+    ],
+    [
+      1.5,
+      "l"
+    ],
+    [
+      0.086997,
+      "e"
+    ],
+    [
+      0.167,
+      "t"
+    ],
+    [
+      0.237,
+      "'s"
+    ],
+    [
+      0.037999,
+      " "
+    ],
+    [
+      0.176,
+      "i"
+    ],
+    [
+      0.029999,
+      "n"
+    ],
+    [
+      0.063,
+      "s"
+    ],
+    [
+      0.216,
+      "t"
+    ],
+    [
+      0.05,
+      "a"
+    ],
+    [
+      0.062001,
+      "l"
+    ],
+    [
+      0.18,
+      "l"
+    ],
+    [
+      0.083,
+      " "
+    ],
+    [
+      1.017,
+      "A"
+    ],
+    [
+      0.135,
+      "P"
+    ],
+    [
+      0.144,
+      "F"
+    ],
+    [
+      0.088001,
+      " "
+    ],
+    [
+      0.185999,
+      "i"
+    ],
+    [
+      0.058,
+      "n"
+    ],
+    [
+      0.044,
+      " "
+    ],
+    [
+      0.161,
+      "s"
+    ],
+    [
+      0.456,
+      "o"
+    ],
+    [
+      0.031,
+      "m"
+    ],
+    [
+      0.104999,
+      "e"
+    ],
+    [
+      0.103,
+      " "
+    ],
+    [
+      0.253,
+      "d"
+    ],
+    [
+      0.060001,
+      "i"
+    ],
+    [
+      0.12,
+      "r"
+    ],
+    [
+      0.052,
+      "e"
+    ],
+    [
+      0.186,
+      "c"
+    ],
+    [
+      0.227,
+      "t"
+    ],
+    [
+      0.03,
+      "o"
+    ],
+    [
+      0.072,
+      "r"
+    ],
+    [
+      0.201003,
+      "y"
+    ],
+    [
+      0.038997,
+      " "
+    ],
+    [
+      0.184,
+      "o"
+    ],
+    [
+      0.128024,
+      "f"
+    ],
+    [
+      0.248976,
+      " "
+    ],
+    [
+      0.306,
+      "o"
+    ],
+    [
+      0.085031,
+      "u"
+    ],
+    [
+      0.215993,
+      "r"
+    ],
+    [
+      0.104,
+      " "
+    ],
+    [
+      0.153998,
+      "c"
+    ],
+    [
+      0.152003,
+      "h"
+    ],
+    [
+      0.083999,
+      "o"
+    ],
+    [
+      0.194,
+      "i"
+    ],
+    [
+      0.29,
+      "c"
+    ],
+    [
+      0.063,
+      "e"
+    ],
+    [
+      0.491003,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.351,
+      "A"
+    ],
+    [
+      0.239998,
+      "P"
+    ],
+    [
+      0.092999,
+      "F"
+    ],
+    [
+      0.112008,
+      "_"
+    ],
+    [
+      0.226993,
+      "H"
+    ],
+    [
+      0.067006,
+      "O"
+    ],
+    [
+      0.146998,
+      "M"
+    ],
+    [
+      0.086999,
+      "E"
+    ],
+    [
+      0.167996,
+      "="
+    ],
+    [
+      1.5,
+      "/scratch365/khurtado/apf"
+    ],
+    [
+      0.43,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "m"
+    ],
+    [
+      0.188998,
+      "k"
+    ],
+    [
+      0.103998,
+      "d"
+    ],
+    [
+      0.081,
+      "i"
+    ],
+    [
+      0.121019,
+      "r"
+    ],
+    [
+      0.080992,
+      " "
+    ],
+    [
+      0.223975,
+      "$"
+    ],
+    [
+      0.196993,
+      "A"
+    ],
+    [
+      0.103999,
+      "P"
+    ],
+    [
+      0.135,
+      "F"
+    ],
+    [
+      0.081999,
+      "_"
+    ],
+    [
+      0.231,
+      "H"
+    ],
+    [
+      0.064,
+      "O"
+    ],
+    [
+      0.145002,
+      "M"
+    ],
+    [
+      0.078998,
+      "E"
+    ],
+    [
+      0.415997,
+      "\r\n"
+    ],
+    [
+      0.010186,
+      "~/autopyfactory $"
+    ],
+    [
+      1.416915,
+      "l"
+    ],
+    [
+      0.133988,
+      "s"
+    ],
+    [
+      0.048003,
+      "\r\n"
+    ],
+    [
+      0.002945,
+      "\u001b[0m\u001b[01;34mattic\u001b[0m          \u001b[01;34mbin\u001b[0m       CHANGELOG      \u001b[01;34mdocs\u001b[0m  INSTALL-ROOT  \u001b[01;34mlibexec\u001b[0m  MANIFEST.in  NOTES             README         setup.cfg\r\n\u001b[01;34mautopyfactory\u001b[0m  BRANCHES  CONFIGURATION  \u001b[01;34metc\u001b[0m   INSTALL-USER  LICENSE  \u001b[01;34mmisc\u001b[0m         OLD-INSTALLATION  RELEASE_NOTES  setup.py\r\n\u001b[m~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "p"
+    ],
+    [
+      0.221976,
+      "y"
+    ],
+    [
+      0.208999,
+      "t"
+    ],
+    [
+      0.134999,
+      "h"
+    ],
+    [
+      0.019,
+      "o"
+    ],
+    [
+      0.205,
+      "n"
+    ],
+    [
+      0.217,
+      " "
+    ],
+    [
+      0.315,
+      "s"
+    ],
+    [
+      0.179,
+      "e"
+    ],
+    [
+      0.201999,
+      "t"
+    ],
+    [
+      0.095001,
+      "u"
+    ],
+    [
+      0.06,
+      "p"
+    ],
+    [
+      0.247001,
+      "."
+    ],
+    [
+      0.173002,
+      "p"
+    ],
+    [
+      0.275998,
+      "y"
+    ],
+    [
+      0.004999,
+      " "
+    ],
+    [
+      1.5,
+      "install --home=$APF_HOME"
+    ],
+    [
+      1.5,
+      "\r\n"
+    ],
+    [
+      0.197022,
+      "running install\r\n"
+    ],
+    [
+      0.01699,
+      "running build\r\nrunning build_py\r\n"
+    ],
+    [
+      0.000991,
+      "creating build\r\n"
+    ],
+    [
+      0.001011,
+      "creating build/lib\r\n"
+    ],
+    [
+      0.000986,
+      "creating build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001013,
+      "copying autopyfactory/__init__.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001001,
+      "copying autopyfactory/apfexceptions.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001989,
+      "copying autopyfactory/authmanager.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001137,
+      "copying autopyfactory/bosco.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.000884,
+      "copying autopyfactory/cleanlogs.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.000993,
+      "copying autopyfactory/condor.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001994,
+      "copying autopyfactory/configloader.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001008,
+      "copying autopyfactory/factory.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.002977,
+      "copying autopyfactory/info.py -> build/lib/autopyfactory\r\ncopying autopyfactory/interfaces.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.000995,
+      "copying autopyfactory/jsd.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001006,
+      "copying autopyfactory/logserver.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001985,
+      "copying autopyfactory/plugin.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001,
+      "copying autopyfactory/pluginsmanagement.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001008,
+      "copying autopyfactory/proxymanager.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.002006,
+      "copying autopyfactory/queues.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.000994,
+      "copying autopyfactory/test.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001994,
+      "copying autopyfactory/utils.py -> build/lib/autopyfactory\r\n"
+    ],
+    [
+      0.001007,
+      "creating build/lib/autopyfactory/plugins\r\n"
+    ],
+    [
+      0.000989,
+      "copying autopyfactory/plugins/__init__.py -> build/lib/autopyfactory/plugins\r\n"
+    ],
+    [
+      0.001044,
+      "creating build/lib/autopyfactory/plugins/factory\r\n"
+    ],
+    [
+      0.000986,
+      "copying autopyfactory/plugins/factory/__init__.py -> build/lib/autopyfactory/plugins/factory\r\n"
+    ],
+    [
+      0.001016,
+      "creating build/lib/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.000958,
+      "copying autopyfactory/plugins/factory/config/Agis.py -> build/lib/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.001997,
+      "copying autopyfactory/plugins/factory/config/File.py -> build/lib/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.002016,
+      "copying autopyfactory/plugins/factory/config/__init__.py -> build/lib/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.000108,
+      "creating build/lib/autopyfactory/plugins/queue\r\n"
+    ],
+    [
+      0.000888,
+      "copying autopyfactory/plugins/queue/__init__.py -> build/lib/autopyfactory/plugins/queue\r\n"
+    ],
+    [
+      0.002006,
+      "creating build/lib/autopyfactory/plugins/queue/batchstatus\r\ncopying autopyfactory/plugins/queue/batchstatus/Condor.py -> build/lib/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.001995,
+      "copying autopyfactory/plugins/queue/batchstatus/CondorEC2.py -> build/lib/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.001992,
+      "copying autopyfactory/plugins/queue/batchstatus/__init__.py -> build/lib/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.002009,
+      "creating build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001052,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorBase.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001972,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorCE.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001071,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorCREAM.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.000914,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorEC2.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.002037,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorGRAM.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.000962,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorGT2.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001009,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorGT5.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.002002,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorGrid.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.000964,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorLSF.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001028,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorLocal.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.000975,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorNordugrid.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorOSGCE.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.002025,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorPBS.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.00099,
+      "copying autopyfactory/plugins/queue/batchsubmit/CondorSSH.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001001,
+      "copying autopyfactory/plugins/queue/batchsubmit/Exec.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.001987,
+      "copying autopyfactory/plugins/queue/batchsubmit/__init__.py -> build/lib/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.000996,
+      "creating build/lib/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.001026,
+      "copying autopyfactory/plugins/queue/monitor/APF.py -> build/lib/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.002007,
+      "copying autopyfactory/plugins/queue/monitor/Panda.py -> build/lib/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.001035,
+      "copying autopyfactory/plugins/queue/monitor/__init__.py -> build/lib/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.001936,
+      "creating build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001009,
+      "copying autopyfactory/plugins/queue/sched/Fillactivated.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001026,
+      "copying autopyfactory/plugins/queue/sched/Fixed.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.000978,
+      "copying autopyfactory/plugins/queue/sched/KeepNRunning.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002007,
+      "copying autopyfactory/plugins/queue/sched/MaxPending.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.000994,
+      "copying autopyfactory/plugins/queue/sched/MaxPerCycle.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002019,
+      "copying autopyfactory/plugins/queue/sched/MaxPerFactory.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001005,
+      "copying autopyfactory/plugins/queue/sched/MaxToRun.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001981,
+      "copying autopyfactory/plugins/queue/sched/MinPending.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001016,
+      "copying autopyfactory/plugins/queue/sched/MinPerCycle.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.001982,
+      "copying autopyfactory/plugins/queue/sched/Null.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.000998,
+      "copying autopyfactory/plugins/queue/sched/Ready.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.00201,
+      "copying autopyfactory/plugins/queue/sched/Scale.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.000994,
+      "copying autopyfactory/plugins/queue/sched/StatusOffline.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002995,
+      "copying autopyfactory/plugins/queue/sched/StatusTest.py -> build/lib/autopyfactory/plugins/queue/sched\r\ncopying autopyfactory/plugins/queue/sched/Throttle.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002993,
+      "copying autopyfactory/plugins/queue/sched/WeightedActivated.py -> build/lib/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002013,
+      "copying autopyfactory/plugins/queue/sched/__init__.py -> build/lib/autopyfactory/plugins/queue/sched\r\ncreating build/lib/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.000988,
+      "copying autopyfactory/plugins/queue/wmsstatus/Condor.py -> build/lib/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.002013,
+      "copying autopyfactory/plugins/queue/wmsstatus/Panda.py -> build/lib/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.002986,
+      "copying autopyfactory/plugins/queue/wmsstatus/__init__.py -> build/lib/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.001002,
+      "creating build/lib/autopyfactory/external\r\n"
+    ],
+    [
+      0.001008,
+      "copying autopyfactory/external/__init__.py -> build/lib/autopyfactory/external\r\n"
+    ],
+    [
+      0.001001,
+      "creating build/lib/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.001002,
+      "copying autopyfactory/external/panda/Client.py -> build/lib/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.002995,
+      "copying autopyfactory/external/panda/__init__.py -> build/lib/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.00101,
+      "creating build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.001005,
+      "copying autopyfactory/plugins/auth/CloudTenant.py -> build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.000982,
+      "copying autopyfactory/plugins/auth/Password.py -> build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.001014,
+      "copying autopyfactory/plugins/auth/SSH.py -> build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.002,
+      "copying autopyfactory/plugins/auth/X509.py -> build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.002001,
+      "copying autopyfactory/plugins/auth/__init__.py -> build/lib/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.005999,
+      "running build_scripts\r\n"
+    ],
+    [
+      0.000988,
+      "creating build/scripts-2.6\r\n"
+    ],
+    [
+      0.001005,
+      "copying and adjusting bin/autopyfactory -> build/scripts-2.6\r\n"
+    ],
+    [
+      0.002923,
+      "copying and adjusting bin/autopyfactory_version -> build/scripts-2.6\r\ncopying and adjusting bin/proxymanager -> build/scripts-2.6\r\n"
+    ],
+    [
+      0.003001,
+      "changing mode of build/scripts-2.6/autopyfactory from 644 to 755\r\nchanging mode of build/scripts-2.6/autopyfactory_version from 644 to 755\r\nchanging mode of build/scripts-2.6/proxymanager from 644 to 755\r\nrunning install_lib\r\n"
+    ],
+    [
+      0.00299,
+      "creating /scratch365/khurtado/apf/lib\r\n"
+    ],
+    [
+      0.002002,
+      "creating /scratch365/khurtado/apf/lib/python\r\n"
+    ],
+    [
+      0.004997,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.004002,
+      "copying build/lib/autopyfactory/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.008002,
+      "copying build/lib/autopyfactory/apfexceptions.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006999,
+      "copying build/lib/autopyfactory/authmanager.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.007004,
+      "copying build/lib/autopyfactory/bosco.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.008,
+      "copying build/lib/autopyfactory/cleanlogs.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.005994,
+      "copying build/lib/autopyfactory/condor.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.008003,
+      "copying build/lib/autopyfactory/configloader.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006998,
+      "copying build/lib/autopyfactory/factory.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.008002,
+      "copying build/lib/autopyfactory/info.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.007001,
+      "copying build/lib/autopyfactory/interfaces.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.00701,
+      "copying build/lib/autopyfactory/jsd.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.007994,
+      "copying build/lib/autopyfactory/logserver.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.005991,
+      "copying build/lib/autopyfactory/plugin.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006009,
+      "copying build/lib/autopyfactory/pluginsmanagement.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006996,
+      "copying build/lib/autopyfactory/proxymanager.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.007998,
+      "copying build/lib/autopyfactory/queues.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.008002,
+      "copying build/lib/autopyfactory/test.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006004,
+      "copying build/lib/autopyfactory/utils.py -> /scratch365/khurtado/apf/lib/python/autopyfactory\r\n"
+    ],
+    [
+      0.006993,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins\r\n"
+    ],
+    [
+      0.003004,
+      "copying build/lib/autopyfactory/plugins/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins\r\n"
+    ],
+    [
+      0.007006,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory\r\n"
+    ],
+    [
+      0.002995,
+      "copying build/lib/autopyfactory/plugins/factory/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory\r\n"
+    ],
+    [
+      0.004001,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.003999,
+      "copying build/lib/autopyfactory/plugins/factory/config/Agis.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.007998,
+      "copying build/lib/autopyfactory/plugins/factory/config/File.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.005002,
+      "copying build/lib/autopyfactory/plugins/factory/config/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config\r\n"
+    ],
+    [
+      0.004002,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue\r\n"
+    ],
+    [
+      0.003998,
+      "copying build/lib/autopyfactory/plugins/queue/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue\r\n"
+    ],
+    [
+      0.005,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.002007,
+      "copying build/lib/autopyfactory/plugins/queue/batchstatus/Condor.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.009993,
+      "copying build/lib/autopyfactory/plugins/queue/batchstatus/CondorEC2.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.005999,
+      "copying build/lib/autopyfactory/plugins/queue/batchstatus/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus\r\n"
+    ],
+    [
+      0.006998,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.002998,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorBase.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.007002,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorCE.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006002,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorCREAM.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.008002,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorEC2.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.007004,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorGRAM.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.005998,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorGT2.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorGT5.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006998,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorGrid.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.004995,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorLSF.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006005,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorLocal.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.007001,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorNordugrid.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006007,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorOSGCE.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006987,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorPBS.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.007007,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/CondorSSH.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.00603,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/Exec.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.006968,
+      "copying build/lib/autopyfactory/plugins/queue/batchsubmit/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit\r\n"
+    ],
+    [
+      0.007,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.005001,
+      "copying build/lib/autopyfactory/plugins/queue/monitor/APF.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.007996,
+      "copying build/lib/autopyfactory/plugins/queue/monitor/Panda.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.00601,
+      "copying build/lib/autopyfactory/plugins/queue/monitor/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor\r\n"
+    ],
+    [
+      0.005996,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.002999,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Fillactivated.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006005,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Fixed.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006001,
+      "copying build/lib/autopyfactory/plugins/queue/sched/KeepNRunning.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.005993,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MaxPending.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.005003,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MaxPerCycle.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.007,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MaxPerFactory.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006004,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MaxToRun.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.005,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MinPending.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.005996,
+      "copying build/lib/autopyfactory/plugins/queue/sched/MinPerCycle.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.005998,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Null.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006995,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Ready.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006001,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Scale.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006006,
+      "copying build/lib/autopyfactory/plugins/queue/sched/StatusOffline.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006005,
+      "copying build/lib/autopyfactory/plugins/queue/sched/StatusTest.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.004988,
+      "copying build/lib/autopyfactory/plugins/queue/sched/Throttle.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006037,
+      "copying build/lib/autopyfactory/plugins/queue/sched/WeightedActivated.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006972,
+      "copying build/lib/autopyfactory/plugins/queue/sched/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched\r\n"
+    ],
+    [
+      0.006,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.002998,
+      "copying build/lib/autopyfactory/plugins/queue/wmsstatus/Condor.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.006001,
+      "copying build/lib/autopyfactory/plugins/queue/wmsstatus/Panda.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.007004,
+      "copying build/lib/autopyfactory/plugins/queue/wmsstatus/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus\r\n"
+    ],
+    [
+      0.005996,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.002998,
+      "copying build/lib/autopyfactory/plugins/auth/CloudTenant.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.003994,
+      "copying build/lib/autopyfactory/plugins/auth/Password.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.004011,
+      "copying build/lib/autopyfactory/plugins/auth/SSH.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.005996,
+      "copying build/lib/autopyfactory/plugins/auth/X509.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.005995,
+      "copying build/lib/autopyfactory/plugins/auth/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth\r\n"
+    ],
+    [
+      0.006007,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/external\r\n"
+    ],
+    [
+      0.002998,
+      "copying build/lib/autopyfactory/external/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/external\r\n"
+    ],
+    [
+      0.004001,
+      "creating /scratch365/khurtado/apf/lib/python/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.003002,
+      "copying build/lib/autopyfactory/external/panda/Client.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.005998,
+      "copying build/lib/autopyfactory/external/panda/__init__.py -> /scratch365/khurtado/apf/lib/python/autopyfactory/external/panda\r\n"
+    ],
+    [
+      0.003996,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.006998,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/apfexceptions.py to apfexceptions.pyc\r\n"
+    ],
+    [
+      0.005008,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/authmanager.py to authmanager.pyc\r\n"
+    ],
+    [
+      0.005997,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/bosco.py to bosco.pyc\r\n"
+    ],
+    [
+      0.007017,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/cleanlogs.py to cleanlogs.pyc\r\n"
+    ],
+    [
+      0.006978,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/condor.py to condor.pyc\r\n"
+    ],
+    [
+      0.011009,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/configloader.py to configloader.pyc\r\n"
+    ],
+    [
+      0.009015,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/factory.py to factory.pyc\r\n"
+    ],
+    [
+      0.010998,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/info.py to info.pyc\r\n"
+    ],
+    [
+      0.00598,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/interfaces.py to interfaces.pyc\r\n"
+    ],
+    [
+      0.004997,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/jsd.py to jsd.pyc\r\n"
+    ],
+    [
+      0.007,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/logserver.py to logserver.pyc\r\n"
+    ],
+    [
+      0.006011,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugin.py to plugin.pyc\r\n"
+    ],
+    [
+      0.003995,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/pluginsmanagement.py to pluginsmanagement.pyc\r\n"
+    ],
+    [
+      0.007996,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/proxymanager.py to proxymanager.pyc\r\n"
+    ],
+    [
+      0.012003,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/queues.py to queues.pyc\r\n"
+    ],
+    [
+      0.007012,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/test.py to test.pyc\r\n"
+    ],
+    [
+      0.003989,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/utils.py to utils.pyc\r\n"
+    ],
+    [
+      0.001014,
+      "Sorry: IndentationError: ('unindent does not match any outer indentation level', ('/scratch365/khurtado/apf/lib/python/autopyfactory/utils.py', 184, 25, '   return service_status\\n'))\r\nbyte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.004966,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002019,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config/Agis.py to Agis.pyc\r\n"
+    ],
+    [
+      0.012999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config/File.py to File.pyc\r\n"
+    ],
+    [
+      0.005007,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/factory/config/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.003,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002993,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus/Condor.py to Condor.pyc\r\n"
+    ],
+    [
+      0.006997,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus/CondorEC2.py to CondorEC2.pyc\r\n"
+    ],
+    [
+      0.010012,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchstatus/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.003993,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorBase.py to CondorBase.pyc\r\n"
+    ],
+    [
+      0.005993,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorCE.py to CondorCE.pyc\r\n"
+    ],
+    [
+      0.004001,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorCREAM.py to CondorCREAM.pyc\r\n"
+    ],
+    [
+      0.004002,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorEC2.py to CondorEC2.pyc\r\n"
+    ],
+    [
+      0.008005,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorGRAM.py to CondorGRAM.pyc\r\n"
+    ],
+    [
+      0.003992,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorGT2.py to CondorGT2.pyc\r\n"
+    ],
+    [
+      0.004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorGT5.py to CondorGT5.pyc\r\n"
+    ],
+    [
+      0.004004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorGrid.py to CondorGrid.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorLSF.py to CondorLSF.pyc\r\n"
+    ],
+    [
+      0.003996,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorLocal.py to CondorLocal.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorNordugrid.py to CondorNordugrid.pyc\r\n"
+    ],
+    [
+      0.005016,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorOSGCE.py to CondorOSGCE.pyc\r\n"
+    ],
+    [
+      0.004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorPBS.py to CondorPBS.pyc\r\n"
+    ],
+    [
+      0.003988,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/CondorSSH.py to CondorSSH.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/Exec.py to Exec.pyc\r\n"
+    ],
+    [
+      0.007015,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/batchsubmit/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002986,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor/APF.py to APF.pyc\r\n"
+    ],
+    [
+      0.007013,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor/Panda.py to Panda.pyc\r\n"
+    ],
+    [
+      0.00399,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/monitor/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002992,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Fillactivated.py to Fillactivated.pyc\r\n"
+    ],
+    [
+      0.005017,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Fixed.py to Fixed.pyc\r\n"
+    ],
+    [
+      0.003987,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/KeepNRunning.py to KeepNRunning.pyc\r\n"
+    ],
+    [
+      0.004005,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MaxPending.py to MaxPending.pyc\r\n"
+    ],
+    [
+      0.004004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MaxPerCycle.py to MaxPerCycle.pyc\r\n"
+    ],
+    [
+      0.003991,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MaxPerFactory.py to MaxPerFactory.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MaxToRun.py to MaxToRun.pyc\r\n"
+    ],
+    [
+      0.003998,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MinPending.py to MinPending.pyc\r\n"
+    ],
+    [
+      0.004005,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/MinPerCycle.py to MinPerCycle.pyc\r\n"
+    ],
+    [
+      0.004002,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Null.py to Null.pyc\r\n"
+    ],
+    [
+      0.004006,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Ready.py to Ready.pyc\r\n"
+    ],
+    [
+      0.003989,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Scale.py to Scale.pyc\r\n"
+    ],
+    [
+      0.004002,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/StatusOffline.py to StatusOffline.pyc\r\n"
+    ],
+    [
+      0.003998,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/StatusTest.py to StatusTest.pyc\r\n"
+    ],
+    [
+      0.006003,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/Throttle.py to Throttle.pyc\r\n"
+    ],
+    [
+      0.004997,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/WeightedActivated.py to WeightedActivated.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/sched/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus/Condor.py to Condor.pyc\r\n"
+    ],
+    [
+      0.006,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus/Panda.py to Panda.pyc\r\n"
+    ],
+    [
+      0.008014,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/queue/wmsstatus/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002996,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth/CloudTenant.py to CloudTenant.pyc\r\n"
+    ],
+    [
+      0.004,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth/Password.py to Password.pyc\r\n"
+    ],
+    [
+      0.002993,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth/SSH.py to SSH.pyc\r\n"
+    ],
+    [
+      0.004003,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth/X509.py to X509.pyc\r\n"
+    ],
+    [
+      0.011009,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/plugins/auth/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.002996,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/external/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.004013,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/external/panda/Client.py to Client.pyc\r\n"
+    ],
+    [
+      0.013002,
+      "byte-compiling /scratch365/khurtado/apf/lib/python/autopyfactory/external/panda/__init__.py to __init__.pyc\r\n"
+    ],
+    [
+      0.003999,
+      "writing byte-compilation script '/tmp/tmpdVysH8.py'\r\n/usr/bin/python -O /tmp/tmpdVysH8.py\r\n"
+    ],
+    [
+      0.148,
+      "Sorry: IndentationError: ('unindent does not match any outer indentation level', ('/scratch365/khurtado/apf/lib/python/autopyfactory/utils.py', 184, 25, '   return service_status\\n'))\r\n"
+    ],
+    [
+      0.274255,
+      "removing /tmp/tmpdVysH8.py\r\nrunning install_scripts\r\ncreating /scratch365/khurtado/apf/bin\r\n"
+    ],
+    [
+      0.003737,
+      "copying build/scripts-2.6/autopyfactory -> /scratch365/khurtado/apf/bin\r\n"
+    ],
+    [
+      0.007003,
+      "copying build/scripts-2.6/autopyfactory_version -> /scratch365/khurtado/apf/bin\r\n"
+    ],
+    [
+      0.005998,
+      "copying build/scripts-2.6/proxymanager -> /scratch365/khurtado/apf/bin\r\n"
+    ],
+    [
+      0.004995,
+      "changing mode of /scratch365/khurtado/apf/bin/autopyfactory to 755\r\n"
+    ],
+    [
+      0.00099,
+      "changing mode of /scratch365/khurtado/apf/bin/autopyfactory_version to 755\r\n"
+    ],
+    [
+      0.001009,
+      "changing mode of /scratch365/khurtado/apf/bin/proxymanager to 755\r\n"
+    ],
+    [
+      0.000982,
+      "running install_data\r\n"
+    ],
+    [
+      0.001026,
+      "creating /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.002993,
+      "copying etc/autopyfactory.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.005006,
+      "copying etc/queues.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.005995,
+      "copying etc/proxy.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.005003,
+      "copying etc/monitor.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.006001,
+      "copying etc/mappings.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.004982,
+      "copying etc/agisdefaults.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.006017,
+      "copying etc/auth.conf -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.004997,
+      "copying etc/autopyfactory -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.006005,
+      "copying etc/proxymanager -> /scratch365/khurtado/apf/etc\r\n"
+    ],
+    [
+      0.006995,
+      "creating /scratch365/khurtado/apf/doc\r\n"
+    ],
+    [
+      0.001982,
+      "creating /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.004005,
+      "copying docs/changelog.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006001,
+      "copying docs/cloud.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006048,
+      "copying docs/config.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006964,
+      "copying docs/contact.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.005005,
+      "copying docs/design.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.004995,
+      "copying docs/index.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.005996,
+      "copying docs/install.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006019,
+      "copying docs/intro.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.005986,
+      "copying docs/monitor.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006004,
+      "copying docs/pubs.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.004995,
+      "copying docs/release.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006001,
+      "copying docs/tools.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.006003,
+      "copying docs/wrapper.html -> /scratch365/khurtado/apf/doc/autopyfactory\r\n"
+    ],
+    [
+      0.004979,
+      "running install_egg_info\r\n"
+    ],
+    [
+      0.001015,
+      "Writing /scratch365/khurtado/apf/lib/python/autopyfactory-2.4.9-py2.6.egg-info\r\n"
+    ],
+    [
+      0.033976,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.312998,
+      " "
+    ],
+    [
+      1.5,
+      "N"
+    ],
+    [
+      0.171999,
+      "o"
+    ],
+    [
+      0.162,
+      "w"
+    ],
+    [
+      0.113,
+      ","
+    ],
+    [
+      0.065,
+      " "
+    ],
+    [
+      0.081,
+      "w"
+    ],
+    [
+      0.193001,
+      "e"
+    ],
+    [
+      0.079999,
+      " "
+    ],
+    [
+      0.109,
+      "s"
+    ],
+    [
+      0.163,
+      "e"
+    ],
+    [
+      0.197001,
+      "t"
+    ],
+    [
+      0.082,
+      "u"
+    ],
+    [
+      0.008,
+      "p"
+    ],
+    [
+      0.065,
+      " "
+    ],
+    [
+      0.104,
+      "t"
+    ],
+    [
+      0.096,
+      "h"
+    ],
+    [
+      0.128,
+      "e"
+    ],
+    [
+      0.088001,
+      " "
+    ],
+    [
+      0.367999,
+      "e"
+    ],
+    [
+      0.128,
+      "n"
+    ],
+    [
+      0.127,
+      "v"
+    ],
+    [
+      0.096,
+      "i"
+    ],
+    [
+      0.139,
+      "r"
+    ],
+    [
+      0.07,
+      "o"
+    ],
+    [
+      0.589,
+      "n"
+    ],
+    [
+      0.170001,
+      "m"
+    ],
+    [
+      0.08,
+      "e"
+    ],
+    [
+      0.097001,
+      "n"
+    ],
+    [
+      0.183,
+      "t"
+    ],
+    [
+      0.245999,
+      " "
+    ],
+    [
+      1.261001,
+      "i"
+    ],
+    [
+      0.036999,
+      "n"
+    ],
+    [
+      0.067,
+      " "
+    ],
+    [
+      0.128,
+      "o"
+    ],
+    [
+      0.177001,
+      "r"
+    ],
+    [
+      0.239,
+      "d"
+    ],
+    [
+      0.167999,
+      "e"
+    ],
+    [
+      0.177,
+      "r"
+    ],
+    [
+      0.054,
+      " "
+    ],
+    [
+      0.134,
+      "t"
+    ],
+    [
+      0.072,
+      "o"
+    ],
+    [
+      0.056,
+      " "
+    ],
+    [
+      0.184004,
+      "u"
+    ],
+    [
+      0.043996,
+      "s"
+    ],
+    [
+      0.156002,
+      "e"
+    ],
+    [
+      0.193998,
+      "r"
+    ],
+    [
+      0.03,
+      " "
+    ],
+    [
+      0.278,
+      "o"
+    ],
+    [
+      0.066,
+      "u"
+    ],
+    [
+      0.072,
+      "r"
+    ],
+    [
+      0.094001,
+      " "
+    ],
+    [
+      0.138999,
+      "l"
+    ],
+    [
+      0.161,
+      "o"
+    ],
+    [
+      0.064,
+      "c"
+    ],
+    [
+      0.083,
+      "a"
+    ],
+    [
+      0.077001,
+      "l"
+    ],
+    [
+      0.055,
+      " "
+    ],
+    [
+      0.199,
+      "A"
+    ],
+    [
+      0.118,
+      "P"
+    ],
+    [
+      0.179002,
+      "F"
+    ],
+    [
+      1.266005,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      0.258993,
+      "e"
+    ],
+    [
+      0.253,
+      "x"
+    ],
+    [
+      0.173,
+      "p"
+    ],
+    [
+      0.065,
+      "o"
+    ],
+    [
+      0.031,
+      "r"
+    ],
+    [
+      0.213,
+      "t"
+    ],
+    [
+      0.056,
+      " "
+    ],
+    [
+      0.2,
+      "P"
+    ],
+    [
+      0.059,
+      "A"
+    ],
+    [
+      0.221024,
+      "T"
+    ],
+    [
+      0.077976,
+      "H"
+    ],
+    [
+      0.441002,
+      "="
+    ],
+    [
+      1.5,
+      "$APF_HOME/bin:$PATH"
+    ],
+    [
+      0.655002,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      0.649998,
+      "e"
+    ],
+    [
+      0.253999,
+      "x"
+    ],
+    [
+      0.204999,
+      "p"
+    ],
+    [
+      0.081,
+      "o"
+    ],
+    [
+      0.015,
+      "r"
+    ],
+    [
+      0.232,
+      "t"
+    ],
+    [
+      0.072,
+      " "
+    ],
+    [
+      0.169,
+      "P"
+    ],
+    [
+      0.306001,
+      "Y"
+    ],
+    [
+      0.230999,
+      "T"
+    ],
+    [
+      0.102,
+      "H"
+    ],
+    [
+      0.032,
+      "O"
+    ],
+    [
+      0.17,
+      "N"
+    ],
+    [
+      0.577,
+      "P"
+    ],
+    [
+      0.095,
+      "A"
+    ],
+    [
+      0.19,
+      "T"
+    ],
+    [
+      0.048,
+      "H"
+    ],
+    [
+      0.651,
+      "="
+    ],
+    [
+      1.5,
+      "$APF_HOME/lib/python:$PYTHONPATH"
+    ],
+    [
+      0.667002,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.230003,
+      " "
+    ],
+    [
+      0.423995,
+      "W"
+    ],
+    [
+      0.193,
+      "e"
+    ],
+    [
+      0.092,
+      " "
+    ],
+    [
+      0.112,
+      "w"
+    ],
+    [
+      0.064,
+      "i"
+    ],
+    [
+      0.184,
+      "l"
+    ],
+    [
+      0.152,
+      "l"
+    ],
+    [
+      0.059,
+      " "
+    ],
+    [
+      0.151,
+      "a"
+    ],
+    [
+      0.125999,
+      "l"
+    ],
+    [
+      0.267001,
+      "s"
+    ],
+    [
+      0.078024,
+      "o"
+    ],
+    [
+      0.086976,
+      " "
+    ],
+    [
+      0.146001,
+      "n"
+    ],
+    [
+      0.069999,
+      "e"
+    ],
+    [
+      0.161,
+      "e"
+    ],
+    [
+      0.183,
+      "d"
+    ],
+    [
+      0.096,
+      " "
+    ],
+    [
+      0.122,
+      "t"
+    ],
+    [
+      0.07,
+      "h"
+    ],
+    [
+      0.081,
+      "e"
+    ],
+    [
+      0.072,
+      " "
+    ],
+    [
+      0.127,
+      "v"
+    ],
+    [
+      0.211,
+      "c"
+    ],
+    [
+      0.294,
+      "3"
+    ],
+    [
+      0.127,
+      "-"
+    ],
+    [
+      0.220002,
+      "p"
+    ],
+    [
+      0.085998,
+      "i"
+    ],
+    [
+      0.185,
+      "l"
+    ],
+    [
+      0.137999,
+      "o"
+    ],
+    [
+      0.309,
+      "t"
+    ],
+    [
+      1.228003,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "m"
+    ],
+    [
+      0.189998,
+      "k"
+    ],
+    [
+      0.08,
+      "d"
+    ],
+    [
+      0.093,
+      "i"
+    ],
+    [
+      0.101001,
+      "r"
+    ],
+    [
+      0.102999,
+      " "
+    ],
+    [
+      0.329001,
+      "/scratch365/khurtado/vc3-pilot"
+    ],
+    [
+      1.176996,
+      "\r\n"
+    ],
+    [
+      0.008088,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "w"
+    ],
+    [
+      0.223965,
+      "g"
+    ],
+    [
+      0.084998,
+      "e"
+    ],
+    [
+      0.162001,
+      "t"
+    ],
+    [
+      0.064998,
+      " "
+    ],
+    [
+      1.5,
+      "https://raw.githubusercontent.com/vc3-project/vc3-pilot-job/master/vc3-pilot"
+    ],
+    [
+      0.62068,
+      " "
+    ],
+    [
+      0.215003,
+      "-"
+    ],
+    [
+      0.536999,
+      "O"
+    ],
+    [
+      0.519994,
+      " "
+    ],
+    [
+      1.5,
+      "/scratch365/khurtado/vc3-pilot/vc3-pilot"
+    ],
+    [
+      0.675755,
+      "\r\n"
+    ],
+    [
+      0.006963,
+      "--2016-09-04 14:29:50--  https://raw.githubusercontent.com/vc3-project/vc3-pilot-job/master/vc3-pilot\r\n"
+    ],
+    [
+      0.020971,
+      "Resolving raw.githubusercontent.com... "
+    ],
+    [
+      0.022986,
+      "151.101.44.133\r\nConnecting to raw.githubusercontent.com|151.101.44.133|:443... "
+    ],
+    [
+      0.008002,
+      "connected.\r\n"
+    ],
+    [
+      0.019998,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.113996,
+      "200 OK\r\nLength: 287340 (281K) [text/plain]\r\nSaving to: “/scratch365/khurtado/vc3-pilot/vc3-pilot”\r\n\r\n\r 0% [                                                                                                                                            ] 0           --.-K/s              "
+    ],
+    [
+      0.053017,
+      "\r100%[===========================================================================================================================================>] 287,340     --.-K/s   in 0.05s   \r\n\r\n2016-09-04 14:29:50 (5.21 MB/s) - “/scratch365/khurtado/vc3-pilot/vc3-pilot” saved [287340/287340]\r\n\r\n"
+    ],
+    [
+      0.006971,
+      "~/autopyfactory $"
+    ],
+    [
+      1.205007,
+      "#"
+    ],
+    [
+      0.196999,
+      " "
+    ],
+    [
+      0.201,
+      "A"
+    ],
+    [
+      0.231,
+      "l"
+    ],
+    [
+      0.12,
+      "s"
+    ],
+    [
+      0.097,
+      "o"
+    ],
+    [
+      0.338001,
+      ","
+    ],
+    [
+      0.044999,
+      " "
+    ],
+    [
+      1.259003,
+      "a"
+    ],
+    [
+      0.247998,
+      "d"
+    ],
+    [
+      0.157,
+      "d"
+    ],
+    [
+      0.065999,
+      " "
+    ],
+    [
+      0.191001,
+      "+"
+    ],
+    [
+      0.234,
+      "x"
+    ],
+    [
+      0.087999,
+      " "
+    ],
+    [
+      0.109999,
+      "p"
+    ],
+    [
+      0.071,
+      "e"
+    ],
+    [
+      0.184,
+      "r"
+    ],
+    [
+      0.106001,
+      "m"
+    ],
+    [
+      0.054,
+      "i"
+    ],
+    [
+      0.105,
+      "s"
+    ],
+    [
+      0.162,
+      "s"
+    ],
+    [
+      0.096,
+      "i"
+    ],
+    [
+      0.023004,
+      "o"
+    ],
+    [
+      0.191996,
+      "n"
+    ],
+    [
+      0.109999,
+      "s"
+    ],
+    [
+      0.584,
+      " "
+    ],
+    [
+      0.152999,
+      "t"
+    ],
+    [
+      0.072,
+      "o"
+    ],
+    [
+      0.057,
+      " "
+    ],
+    [
+      0.093,
+      "t"
+    ],
+    [
+      0.078999,
+      "h"
+    ],
+    [
+      0.104001,
+      "e"
+    ],
+    [
+      0.043,
+      " "
+    ],
+    [
+      0.121016,
+      "p"
+    ],
+    [
+      0.086985,
+      "i"
+    ],
+    [
+      0.167,
+      "l"
+    ],
+    [
+      0.128,
+      "o"
+    ],
+    [
+      0.125,
+      "t"
+    ],
+    [
+      0.928003,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      0.255997,
+      "c"
+    ],
+    [
+      0.092,
+      "h"
+    ],
+    [
+      0.207,
+      "m"
+    ],
+    [
+      0.056001,
+      "o"
+    ],
+    [
+      0.111,
+      "d"
+    ],
+    [
+      0.095999,
+      " "
+    ],
+    [
+      0.355,
+      "+"
+    ],
+    [
+      0.283,
+      "x"
+    ],
+    [
+      0.059,
+      " "
+    ],
+    [
+      1.5,
+      "/scratch365/khurtado/vc3-pilot/vc3-pilot"
+    ],
+    [
+      0.416882,
+      "\r\n"
+    ],
+    [
+      0.005089,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.244963,
+      " "
+    ],
+    [
+      0.394002,
+      "N"
+    ],
+    [
+      0.150997,
+      "o"
+    ],
+    [
+      0.111,
+      "w"
+    ],
+    [
+      0.118999,
+      ","
+    ],
+    [
+      0.066999,
+      " "
+    ],
+    [
+      0.206002,
+      "w"
+    ],
+    [
+      0.177,
+      "e"
+    ],
+    [
+      0.065998,
+      " "
+    ],
+    [
+      0.142001,
+      "c"
+    ],
+    [
+      0.215002,
+      "r"
+    ],
+    [
+      0.055996,
+      "e"
+    ],
+    [
+      0.128001,
+      "a"
+    ],
+    [
+      0.208001,
+      "t"
+    ],
+    [
+      0.039999,
+      "e"
+    ],
+    [
+      0.113001,
+      " "
+    ],
+    [
+      0.083,
+      "a"
+    ],
+    [
+      0.102,
+      " "
+    ],
+    [
+      0.767004,
+      "l"
+    ],
+    [
+      0.166997,
+      "o"
+    ],
+    [
+      0.055999,
+      "g"
+    ],
+    [
+      0.096009,
+      " "
+    ],
+    [
+      0.135992,
+      "d"
+    ],
+    [
+      0.141002,
+      "i"
+    ],
+    [
+      0.083998,
+      "r"
+    ],
+    [
+      0.064999,
+      "e"
+    ],
+    [
+      0.160001,
+      "c"
+    ],
+    [
+      0.247001,
+      "t"
+    ],
+    [
+      0.030997,
+      "o"
+    ],
+    [
+      0.07402,
+      "r"
+    ],
+    [
+      0.366024,
+      "y"
+    ],
+    [
+      0.822988,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      0.306973,
+      "m"
+    ],
+    [
+      0.169997,
+      "k"
+    ],
+    [
+      0.067999,
+      "d"
+    ],
+    [
+      0.111999,
+      "i"
+    ],
+    [
+      0.105001,
+      "r"
+    ],
+    [
+      0.071,
+      " "
+    ],
+    [
+      1.5,
+      "$APF_HOME/logs"
+    ],
+    [
+      0.451929,
+      "\r\n"
+    ],
+    [
+      0.004924,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.367997,
+      " "
+    ],
+    [
+      1.5,
+      "N"
+    ],
+    [
+      0.153,
+      "o"
+    ],
+    [
+      0.117,
+      "w"
+    ],
+    [
+      0.098025,
+      ","
+    ],
+    [
+      0.072976,
+      " "
+    ],
+    [
+      0.079999,
+      "w"
+    ],
+    [
+      0.183,
+      "e"
+    ],
+    [
+      0.055,
+      " "
+    ],
+    [
+      0.152001,
+      "c"
+    ],
+    [
+      0.118999,
+      "o"
+    ],
+    [
+      0.048,
+      "n"
+    ],
+    [
+      0.076,
+      "f"
+    ],
+    [
+      0.084,
+      "i"
+    ],
+    [
+      0.103,
+      "g"
+    ],
+    [
+      0.074,
+      "u"
+    ],
+    [
+      0.135,
+      "r"
+    ],
+    [
+      0.041001,
+      "e"
+    ],
+    [
+      0.071999,
+      " "
+    ],
+    [
+      0.231001,
+      "A"
+    ],
+    [
+      0.425999,
+      "P"
+    ],
+    [
+      0.111001,
+      "F"
+    ],
+    [
+      0.136,
+      " "
+    ],
+    [
+      0.135,
+      "a"
+    ],
+    [
+      0.089,
+      "n"
+    ],
+    [
+      0.110001,
+      "d"
+    ],
+    [
+      0.056999,
+      " "
+    ],
+    [
+      0.14,
+      "t"
+    ],
+    [
+      0.076,
+      "h"
+    ],
+    [
+      0.12,
+      "e"
+    ],
+    [
+      0.074027,
+      " "
+    ],
+    [
+      0.14198,
+      "q"
+    ],
+    [
+      0.103992,
+      "u"
+    ],
+    [
+      0.083,
+      "e"
+    ],
+    [
+      0.092,
+      "u"
+    ],
+    [
+      0.113004,
+      "e"
+    ],
+    [
+      0.094996,
+      " "
+    ],
+    [
+      0.724001,
+      "t"
+    ],
+    [
+      0.077999,
+      "o"
+    ],
+    [
+      0.064,
+      " "
+    ],
+    [
+      0.156,
+      "u"
+    ],
+    [
+      0.042,
+      "s"
+    ],
+    [
+      0.179,
+      "e"
+    ],
+    [
+      0.074,
+      " "
+    ],
+    [
+      0.132,
+      "t"
+    ],
+    [
+      0.068,
+      "h"
+    ],
+    [
+      0.125,
+      "e"
+    ],
+    [
+      0.059,
+      " "
+    ],
+    [
+      0.119,
+      "l"
+    ],
+    [
+      0.140001,
+      "o"
+    ],
+    [
+      0.073,
+      "c"
+    ],
+    [
+      0.062999,
+      "a"
+    ],
+    [
+      0.116,
+      "l"
+    ],
+    [
+      0.487,
+      " "
+    ],
+    [
+      0.23,
+      "c"
+    ],
+    [
+      0.122999,
+      "o"
+    ],
+    [
+      0.039999,
+      "n"
+    ],
+    [
+      0.092,
+      "d"
+    ],
+    [
+      0.076,
+      "o"
+    ],
+    [
+      0.167001,
+      "r"
+    ],
+    [
+      0.060999,
+      " "
+    ],
+    [
+      0.177,
+      "p"
+    ],
+    [
+      0.071,
+      "o"
+    ],
+    [
+      0.176,
+      "o"
+    ],
+    [
+      0.188,
+      "l"
+    ],
+    [
+      0.408004,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.204997,
+      "v"
+    ],
+    [
+      0.158999,
+      "i"
+    ],
+    [
+      0.072001,
+      "m"
+    ],
+    [
+      0.075,
+      " "
+    ],
+    [
+      1.209002,
+      "$"
+    ],
+    [
+      0.212999,
+      "A"
+    ],
+    [
+      0.142999,
+      "P"
+    ],
+    [
+      0.12,
+      "F"
+    ],
+    [
+      0.097,
+      "_"
+    ],
+    [
+      0.223001,
+      "H"
+    ],
+    [
+      0.062999,
+      "O"
+    ],
+    [
+      0.147,
+      "M"
+    ],
+    [
+      0.11,
+      "E"
+    ],
+    [
+      0.236011,
+      "/"
+    ],
+    [
+      1.5,
+      "etc/autopyfactory.conf"
+    ],
+    [
+      1.436993,
+      "\r\n"
+    ],
+    [
+      0.35403,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000992,
+      "\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"/scratch365/khurtado/apf/etc/autopyfactory.conf\" 59L, 1940C"
+    ],
+    [
+      0.007011,
+      "\u001b[>c"
+    ],
+    [
+      0.001006,
+      "\u001b[1;1H\u001b[1m /s/k/a/e/autopyfactory.conf \u001b[m\u001b[7m                                                                                                                                                        \u001b[m\u001b[2;1Hwmsstatus.panda.maxage = 360\r\nwmsstatus.condor.sleep = 150\r\nwmsstatus.condor.maxage = 360\r\nbatchstatus.condor.sleep = 150\r\nbatchstatus.condor.maxage = 360\r\n\r\nbaseLogDir = /home/autopyfactory/factory/logs\r\nbaseLogDirUrl = http://myhost.matrix.net:25880\r\n\r\nlogserver.enabled = True\r\nlogserver.index = True\r\nlogserver.allowrobots = False\r\n\r\nconfigplugin = File\r\n\u001b[34m#configplugin = Agis\r\n#config.agis.baseurl = http://atlas-agis-api.cern.ch/request/pandaqueue/query/list/?json&preset=schedconf.all\r\n#config.agis.defaultsfile= /etc/autopyfactory/agisdefaults.conf\r\n#config.agis.sleep = 3600\r\n#config.agis.vos = atlas\r\n#config.agis.clouds = US\r\n#config.agis.activities = analysis,production\u001b[m\r\n\u001b[1m\u001b[7m /scratch365/khurtado/apf/etc/autopyfactory.conf   CWD: /afs/crc.nd.edu/user/k/khurtado/autopyfactory   Line: 47      "
+    ],
+    [
+      1.7e-05,
+      "                                                               \u001b[12;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.129981,
+      "\u001b[?25l\u001b[m\u001b[24;1H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.228994,
+      "0\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155002,
+      "\r\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[1m /s/k/a/e/autopyfactory.conf \u001b[m\u001b[7m                                                                                                                                                        \u001b[m\u001b[2;1H\u001b[34m# =================================================================================================================\r\n#\r\n# autopyfactory.conf Configuration file for main Factory component of AutoPyFactory.\r\n#\r\n# Documentation: \r\n#   https://twiki.grid.iu.edu/bin/view/Documentation/Release3/AutoPyFactory\r\n#   https://twiki.grid.iu.edu/bin/view/Documentation/Release3/AutoPyFactoryConfiguration#5_2_autopyfactory_conf\r\n# \r\n# =================================================================================================================\r\n\r\n# template for a configuration file\u001b[m\r\n[Factory]\r\n\r\nfactoryAdminEmail = neo@matrix.net\r\nfactoryId = MYSITE-hostname-sysadminname\r\nfactorySMTPServer = mail.matrix.net\r\nfactoryMinEmailRepeatSeconds = 43200\r\nfactoryUser = autopyfactory\r\nenablequeues ="
+    ],
+    [
+      4.1e-05,
+      " True\r\n\r\nqueueConf = file:///etc/autopyfactory/queues.conf\r\n\u001b[1m\u001b[7m /scratch365/khurtado/apf/etc/autopyfactory.conf   CWD: /afs/crc.nd.edu/user/k/khurtado/autopyfactory   Line: 1                                                                      "
+    ],
+    [
+      0.000955,
+      "\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.558003,
+      "\u001b[23;111H2 \u001b[3;1H"
+    ],
+    [
+      0.493001,
+      "\u001b[23;111H3 \u001b[4;1H"
+    ],
+    [
+      0.083997,
+      "\u001b[23;111H4 \u001b[5;1H"
+    ],
+    [
+      0.082999,
+      "\u001b[23;111H5 \u001b[6;1H"
+    ],
+    [
+      0.088001,
+      "\u001b[23;111H6 \u001b[7;1H"
+    ],
+    [
+      0.089,
+      "\u001b[23;111H7 \u001b[8;1H"
+    ],
+    [
+      0.075,
+      "\u001b[23;111H8 \u001b[9;1H"
+    ],
+    [
+      0.082,
+      "\u001b[23;111H9 \u001b[10;1H"
+    ],
+    [
+      0.083001,
+      "\u001b[23;111H10\u001b[11;1H"
+    ],
+    [
+      0.084999,
+      "\u001b[23;112H1 \u001b[12;1H"
+    ],
+    [
+      0.084002,
+      "\u001b[?25l\u001b[m\r\n\u001b[106m[\u001b[7C]\u001b[m\u001b[23;112H\u001b[1m\u001b[7m2 \u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102,
+      "\u001b[?25l\u001b[m[\u001b[7C]\u001b[23;112H\u001b[1m\u001b[7m3 \u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066998,
+      "\u001b[23;112H4 \u001b[15;1H"
+    ],
+    [
+      0.517002,
+      "\u001b[33C"
+    ],
+    [
+      0.299,
+      "\u001b[?25l\u001b[m\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.349001,
+      "\u001b[mt"
+    ],
+    [
+      0.265999,
+      "\u001b[1;2H\u001b[1m+s\b /s/k/a/e/autopyfactory.conf \u001b[?25l\u001b[m\u001b[15;34H\u001b[K\u001b[23;49H\u001b[1m\u001b[7m[+]   CWD: /afs/crc.nd.edu/user/k/khurtado/autopyfactory   Line: 14\u001b[15;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.505005,
+      "\u001b[?25l\u001b[m\u001b[15;33H\u001b[K\u001b[15;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.073993,
+      "\u001b[?25l\u001b[15;32H\u001b[K\u001b[15;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.092,
+      "\u001b[?25l\u001b[15;31H\u001b[K\u001b[15;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.077001,
+      "\u001b[?25l\u001b[15;30H\u001b[K\u001b[15;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080002,
+      "\u001b[?25l\u001b[15;29H\u001b[K\u001b[15;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084,
+      "\u001b[?25l\u001b[15;28H\u001b[K\u001b[15;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084002,
+      "\u001b[?25l\u001b[15;27H\u001b[K\u001b[15;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082987,
+      "\u001b[?25l\u001b[15;26H\u001b[K\u001b[15;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097997,
+      "\u001b[?25l\u001b[15;25H\u001b[K\u001b[15;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068001,
+      "\u001b[?25l\u001b[15;24H\u001b[K\u001b[15;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085995,
+      "\u001b[?25l\u001b[15;23H\u001b[K\u001b[15;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081,
+      "\u001b[?25l\u001b[15;22H\u001b[K\u001b[15;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201001,
+      "\u001b[?25l\u001b[15;21H\u001b[K\u001b[15;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296004,
+      "\u001b[?25lk\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.233005,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030004,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.17,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.038999,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153001,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072998,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166002,
+      "\u001b[?25l@\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165003,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.07,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142001,
+      "\u001b[?25l.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.100984,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.177998,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079999,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.378005,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HqueueDirConf = None\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.273006,
+      "\u001b[mn"
+    ],
+    [
+      0.481009,
+      "\u001b[25;1H\u001b[K\u001b[15;36H"
+    ],
+    [
+      0.133994,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\r"
+    ],
+    [
+      0.101999,
+      "\u001b[10C"
+    ],
+    [
+      0.200001,
+      "= "
+    ],
+    [
+      0.960003,
+      "\u001b[?25l\u001b[15;13H\u001b[K\u001b[15;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.225999,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.381,
+      "\u001b[m "
+    ],
+    [
+      1.126011,
+      "\u001b[?25lN\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115987,
+      "\u001b[?25lD\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142999,
+      "\u001b[?25l_\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192011,
+      "\u001b[?25lO\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.444997,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154991,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.060001,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.182,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.182999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.057001,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201006,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072994,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153001,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181003,
+      "\u001b[?25l_\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207998,
+      "\u001b[?25lA\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079999,
+      "\u001b[?25lP\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264002,
+      "\u001b[?25lF\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.401006,
+      "\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[14;33H"
+    ],
+    [
+      0.192993,
+      "\u001b[me"
+    ],
+    [
+      0.150988,
+      "d"
+    ],
+    [
+      0.135019,
+      "u"
+    ],
+    [
+      0.463996,
+      "\u001b[?25l\u001b[15;22r\u001b[15;1H\u001b[L\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.368005,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.254993,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144997,
+      "\u001b[?25lT\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.129001,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030999,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128001,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088001,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.170001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.090999,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167986,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208015,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065999,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200002,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.228001,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068999,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103,
+      "\u001b[?25lm\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151986,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192015,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HqueueDirConf = None\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m6 \u001b[15;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.410001,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HproxyConf = /etc/autopyfactory/proxy.conf\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m7 \u001b[15;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.738009,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[15;26H"
+    ],
+    [
+      0.49998,
+      "\u001b[?25l"
+    ],
+    [
+      0.001005,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.714006,
+      "\u001b[?25l\u001b[15;26H\u001b[K\u001b[15;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.269007,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.311995,
+      "\u001b[m."
+    ],
+    [
+      0.562999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076996,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160002,
+      "\u001b[?25l.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178001,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069998,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.442004,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hauthmanager.enabled = True\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m8 \u001b[15;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hproxymanager.enabled = True\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m9 \u001b[15;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132998,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hproxymanager.sleep = 30\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;114H\u001b[1m\u001b[7m20 \u001b[15;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.139,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hauthmanager.sleep = 30\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m1 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136999,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HauthConf = file:///etc/autopyfactory/auth.conf\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m2 \u001b[15;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HmonitorConf = /etc/autopyfactory/monitor.conf\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m3 \u001b[15;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143989,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HmappingsConf = /etc/autopyfactory/mappings.conf\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[15;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153012,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.416999,
+      "\u001b[23;115H4 \u001b[14;32H"
+    ],
+    [
+      0.174,
+      "\u001b[23;115H3 \u001b[13;20H"
+    ],
+    [
+      0.146999,
+      "\u001b[23;115H2 \u001b[12;32H"
+    ],
+    [
+      0.157001,
+      "\u001b[23;115H1 \u001b[11;1H"
+    ],
+    [
+      0.370005,
+      "\u001b[?25l\u001b[12;22r\u001b[m\u001b[12;1H\u001b[L\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m2 \u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.327997,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178,
+      "\u001b[?25lN\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.231002,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.013997,
+      "\u001b[?25lw\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102001,
+      "\u001b[?25l,\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.059,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135001,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062998,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162002,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208,
+      "\u001b[?25l's\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.227002,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094999,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078011,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095989,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120984,
+      "\u001b[?25lg\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.057016,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.246001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016999,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.105001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153001,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032998,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088,
+      "\u001b[?25lg\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120001,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135002,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.038997,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062999,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.022999,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173002,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.13,
+      "\u001b[?25lP\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087,
+      "\u001b[?25lA\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183001,
+      "\u001b[?25lT\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.122999,
+      "\u001b[?25lH\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.362002,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.329998,
+      "\u001b[m\u001b[23;115H\u001b[1m\u001b[7m3 \u001b[13;44H"
+    ],
+    [
+      0.163,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[13;43H"
+    ],
+    [
+      0.410005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[?25l\r\u001b[7m\u001b[47mqueueConf = file:///etc/autopyfactory/queu\u001b[me\u001b[7m\u001b[47ms.conf \u001b[m\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[13;43H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163994,
+      "\u001b[?25l\u001b[m\u001b[7m\u001b[47me\r\nqueueDirConf = None\u001b[m\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[14;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.23501,
+      "\u001b[?25l\u001b[m\u001b[7m\u001b[47m \r\nproxyConf = /etc/autopyfactory/proxy.conf\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133994,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;42H\u001b[7m\u001b[47m \r\nauthmanager.enabled = True\u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m6 \u001b[15;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127007,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;27H\u001b[7m\u001b[47m \r\nproxymanager.enabled = True\u001b[m\u001b[22;1Hcycles = None\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m7 \u001b[15;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134992,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;28H\u001b[7m\u001b[47m \r\nproxymanager.sleep = 30\u001b[m\u001b[22;1Hcleanlogs.keepdays = 14\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m8 \u001b[15;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121998,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;24H\u001b[7m\u001b[47m \r\nauthmanager.sleep = 30\u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m9 \u001b[15;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135005,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;23H\u001b[7m\u001b[47m \r\nauthConf = file:///etc/autopyfactory/auth.\u001b[mc\u001b[7m\u001b[47monf \u001b[m\u001b[22;1Hfactory.sleep=30\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;114H\u001b[1m\u001b[7m30 \u001b[15;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136996,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;43H\u001b[7m\u001b[47mc\r\nmonitorConf = /etc/autopyfactory/monitor.c\u001b[mo\u001b[7m\u001b[47mnf \u001b[m\u001b[22;1Hwmsstatus.panda.sleep = 150\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m1 \u001b[15;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[14;43H\u001b[7m\u001b[47mo\r\nmappingsConf = /etc/autopyfactory/mappings\u001b[m.\u001b[7m\u001b[47mconf \u001b[m\u001b[22;1Hwmsstatus.panda.maxage = 360\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m2 \u001b[15;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.526002,
+      "\u001b[?25l\u001b[m\u001b[25;1H\u001b[K\u001b[24;1H:'<,'>\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164994,
+      "s\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106,
+      "/\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.625002,
+      "\u001b[?25l\u001b[24;8H\u001b[K\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "/etc\\/autopyfactory/scratch365\\/khurtado\\/apf\\/etc/g\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\r\u001b[?25l5 substitutions on 5 lines\u001b[24;27H\u001b[K"
+    ],
+    [
+      0.000998,
+      "\u001b[6;1HqueueConf = file:///scratch365/khurtado/apf/etc/queues.conf\r\nqueueDirConf = None\u001b[7;20H\u001b[K\u001b[8;1HproxyConf = /scratch365/khurtado/apf/etc/proxy.conf\r\nauthmanager.enabled = True\u001b[9;27H\u001b[K\u001b[10;1Hproxymanager.enabled = True\u001b[10;28H\u001b[K\u001b[11;1Hproxymanager.sleep = 30\u001b[11;24H\u001b[K\u001b[12;1Hauthmanager.sleep = 30\u001b[12;23H\u001b[K\u001b[13;1HauthConf = file:///scratch365/khurtado/apf/etc/auth.conf\r\nmonitorConf = /scratch365/khurtado/apf/etc/monitor.conf\r\nmappingsConf = /scratch365/khurtado/apf/etc/mappings.conf\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hwmsstatus.condor.sleep = 150\u001b[24;1H\u001b[K\u001b[23;115H\u001b[1m\u001b[7m3 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.195962,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hwmsstatus.condor.maxage = 360\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.999998,
+      "\u001b[23;115H3 \u001b[14;1H"
+    ],
+    [
+      0.338999,
+      "\u001b[?25l\u001b[m\u001b[25;1H\u001b[1m-- INSERT --\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081999,
+      "\u001b[?25l\u001b[15;22r\u001b[m\u001b[15;1H\u001b[L\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.323001,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162997,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141001,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.258002,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117999,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.299006,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068995,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168001,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.058999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501989,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096012,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192999,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.253002,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.218999,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062999,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.169003,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.225002,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hwmsstatus.condor.maxage = 360\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.310999,
+      "\u001b[?25l\u001b[m\u001b[15;13H\u001b[K\u001b[15;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197998,
+      "\u001b[?25l\u001b[15;12H\u001b[K\u001b[15;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136,
+      "\u001b[?25l\u001b[15;11H\u001b[K\u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144006,
+      "\u001b[?25l\u001b[15;10H\u001b[K\u001b[15;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.955993,
+      "\u001b[?25l1\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.402009,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hbatchstatus.condor.sleep = 150\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m6 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.496995,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hbatchstatus.condor.maxage = 360\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m7 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079983,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m8 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095015,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HbaseLogDir = /home/autopyfactory/factory/logs\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m9 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094985,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1HbaseLogDirUrl = http://myhost.matrix.net:25880\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;114H\u001b[1m\u001b[7m40 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m1 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080014,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hlogserver.enabled = True\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m2 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hlogserver.index = True\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m3 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hlogserver.allowrobots = False\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m4 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084001,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hconfigplugin = File\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m6 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.989995,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[15;10H"
+    ],
+    [
+      0.499995,
+      "\u001b[?25l"
+    ],
+    [
+      0.002009,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011,
+      "\u001b[23;115H\u001b[1m\u001b[7m5 \u001b[14;1H"
+    ],
+    [
+      0.315004,
+      "\u001b[?25l\u001b[m\u001b[25;1H\u001b[1m-- INSERT --\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179,
+      "\u001b[?25l\u001b[15;22r\u001b[m\u001b[15;1H\u001b[L\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m6 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.466,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.689998,
+      "\u001b[?25lT\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088001,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215002,
+      "\u001b[?25l,\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.08301,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167991,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.519005,
+      "\u001b[?25l\u001b[m\u001b[15;10H\u001b[K\u001b[15;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.125996,
+      "\u001b[?25l\u001b[15;9H\u001b[K\u001b[15;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.241001,
+      "\u001b[?25l\u001b[34mu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.046998,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.621008,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051992,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.267003,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.304998,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104,
+      "\u001b[?25lg\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.283,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118999,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.04,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207001,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200999,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.370003,
+      "\u001b[?25ly\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206998,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1Hconfigplugin = File\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m7 \u001b[15;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223997,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[15;29H"
+    ],
+    [
+      0.224003,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\r"
+    ],
+    [
+      0.102998,
+      "\u001b[11C"
+    ],
+    [
+      0.496007,
+      "="
+    ],
+    [
+      0.135991,
+      " "
+    ],
+    [
+      0.94401,
+      "\u001b[?25l\u001b[15;14H\u001b[K\u001b[15;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.349995,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.412999,
+      "\u001b[m "
+    ],
+    [
+      1.5,
+      "\u001b[?25l/scratch365/khurtado/apf/logs\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.149034,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1H\u001b[34m#configplugin = Agis\u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;115H\u001b[1m\u001b[7m8 \u001b[15;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.552971,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[15;42H"
+    ],
+    [
+      0.164994,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\r"
+    ],
+    [
+      0.142997,
+      "\u001b[14C"
+    ],
+    [
+      0.565008,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.317995,
+      "\u001b[m="
+    ],
+    [
+      0.148998,
+      " "
+    ],
+    [
+      0.689,
+      "\u001b[25;1H\u001b[K\u001b[15;16H"
+    ],
+    [
+      0.182999,
+      "\u001b[?25l\u001b[?12l\u001b[?25h "
+    ],
+    [
+      0.895027,
+      "\u001b[?25l\u001b[15;17H\u001b[K\u001b[15;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.446977,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[15;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.416997,
+      "\u001b[m "
+    ],
+    [
+      1.5,
+      "\u001b[?25lhttp://griddev02.racf.bnl.gov:25880\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.060984,
+      "\u001b[25;1H\u001b[K\u001b[15;51H"
+    ],
+    [
+      0.289014,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1H\u001b[34m#config.agis.baseurl = http://atlas-agis-api.cern.ch/request/pandaqueue/query/list/?json&preset=schedconf.all\u001b[m\u001b[23;115H\u001b[1m\u001b[7m9 \u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.623994,
+      "\u001b[?25l\u001b[24;1H\u001b[m:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181992,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055999,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104005,
+      "\r\u001b[?25l\"/scratch365/khurtado/apf/etc/autopyfactory.conf\""
+    ],
+    [
+      0.004122,
+      " 63L, 2104C written"
+    ],
+    [
+      0.005974,
+      "\r\r\n\r\r\n\u001b[?1l\u001b>\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001882,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.158,
+      " "
+    ],
+    [
+      0.181999,
+      "N"
+    ],
+    [
+      0.153999,
+      "o"
+    ],
+    [
+      0.127,
+      "w"
+    ],
+    [
+      0.119,
+      ","
+    ],
+    [
+      0.058,
+      " "
+    ],
+    [
+      0.103,
+      "a"
+    ],
+    [
+      0.306002,
+      "\b\u001b[K"
+    ],
+    [
+      0.044998,
+      "w"
+    ],
+    [
+      0.215001,
+      "e"
+    ],
+    [
+      0.161,
+      " "
+    ],
+    [
+      0.329999,
+      "a"
+    ],
+    [
+      0.150001,
+      "d"
+    ],
+    [
+      0.169,
+      "d"
+    ],
+    [
+      0.078,
+      " "
+    ],
+    [
+      0.745001,
+      "o"
+    ],
+    [
+      0.162,
+      "u"
+    ],
+    [
+      0.093999,
+      "r"
+    ],
+    [
+      0.048,
+      " "
+    ],
+    [
+      0.1,
+      "p"
+    ],
+    [
+      0.084,
+      "o"
+    ],
+    [
+      0.128,
+      "o"
+    ],
+    [
+      0.176,
+      "l"
+    ],
+    [
+      0.072,
+      " "
+    ],
+    [
+      0.176001,
+      "t"
+    ],
+    [
+      0.032,
+      "o"
+    ],
+    [
+      0.096,
+      " "
+    ],
+    [
+      0.192001,
+      "t"
+    ],
+    [
+      0.079999,
+      "h"
+    ],
+    [
+      0.115,
+      "e"
+    ],
+    [
+      0.069,
+      " "
+    ],
+    [
+      0.135,
+      "q"
+    ],
+    [
+      0.105,
+      "u"
+    ],
+    [
+      0.075,
+      "e"
+    ],
+    [
+      0.102,
+      "u"
+    ],
+    [
+      0.095999,
+      "e"
+    ],
+    [
+      0.524004,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.431,
+      "v"
+    ],
+    [
+      0.106998,
+      "i"
+    ],
+    [
+      0.072999,
+      "m"
+    ],
+    [
+      0.089,
+      " "
+    ],
+    [
+      0.481,
+      "$"
+    ],
+    [
+      0.198001,
+      "A"
+    ],
+    [
+      0.111999,
+      "P"
+    ],
+    [
+      0.133,
+      "F"
+    ],
+    [
+      0.429,
+      "_"
+    ],
+    [
+      0.262,
+      "H"
+    ],
+    [
+      0.041,
+      "O"
+    ],
+    [
+      0.151,
+      "M"
+    ],
+    [
+      0.1,
+      "E"
+    ],
+    [
+      0.204,
+      "/"
+    ],
+    [
+      1.5,
+      "etc/queues.conf"
+    ],
+    [
+      0.740991,
+      "\r\n"
+    ],
+    [
+      0.391032,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000991,
+      "\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"/scratch365/khurtado/apf/etc/queues.conf\" 260L, 10597C"
+    ],
+    [
+      0.007006,
+      "\u001b[>c"
+    ],
+    [
+      0.001009,
+      "\u001b[1;1H\u001b[1m /s/k/a/e/queues.conf \u001b[m\u001b[7m                                                                                                                                                               \u001b[m\u001b[2;1H\u001b[34m# =================================================================================================================\r\n#\r\n# queues.conf  Configuration file for APFQueue component of AutoPyFactory.\r\n#\r\n# Documentation: \r\n#   https://twiki.grid.iu.edu/bin/view/Documentation/Release3/AutoPyFactory\r\n#   https://twiki.grid.iu.edu/bin/view/Documentation/Release3/AutoPyFactoryConfiguration#5_3_queues_conf\r\n# \r\n# =================================================================================================================\u001b[m\r\n\r\n[DEFAULT]\r\n\r\ncleanlogs.keepdays = 7\r\n\r\n\u001b[34m# plugins\u001b[m\r\nbatchstatusplugin = Condor\r\nwmsstatusplugin = Panda\r\nbatchsubmitplugin = CondorGT2\r\nschedplugin = Ready\r\nmonitorsection = apfmon-lancaster\r\n\r\n\u001b[1m\u001b[7m /scratch365/khurtado/apf/etc/queues.conf   CWD: /afs/crc.nd.edu/user/k/khurt"
+    ],
+    [
+      2.1e-05,
+      "ado/autopyfactory   Line: 1                                                                             \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.474963,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[1m /s/k/a/e/queues.conf \u001b[m\u001b[7m                                                                                                                                                               \u001b[m\u001b[2;1H\u001b[34m#   enabled = False\r\n#   \r\n#   wmsqueue = ANALY_LRZ \r\n#   batchqueue = ANALY_LRZ\r\n#   \r\n#   batchsubmitplugin = CondorNordugrid\r\n#   batchsubmit.condornordugrid.gridresource = lcg-lrz-ce2.grid.lrz.de \r\n#   nordugridrsl.jobname = 'analy_pilot'\r\n#   nordugridrsl.queue = lcg\r\n#   nordugridrsl.nordugridrsladd = (runtimeenvironment = APPS/HEP/ATLAS-SITE-LCG)(runtimeenvironment = ENV/PROXY )\r\n#   nordugridrsl.addenv.RUCIO_ACCOUNT = pilot\r\n#   \r\n#   schedplugin = Ready, MinPerCycle, MaxPerCycle, MaxPending\r\n#   sched.minpercycle.minimum = 10\r\n#   sched.maxpercycle.maximum = 20\r\n#   sched.maxpending.maximum = 50\r\n#   \r\n#   executable.arguments = %(executable.defaultarguments)s --script=pilot.py --libcode=pilotcode.tar.gz,pilotcode-rc.tar.gz --pilotsrcurl=http://panda.cern.ch:25880/cache -"
+    ],
+    [
+      2.8e-05,
+      "-user     \u001b[20;1Huser\u001b[m\r\n\r\n\r\n\u001b[1m\u001b[7m /scratch365/khurtado/apf/etc/queues.conf   CWD: /afs/crc.nd.edu/user/k/khurtado/autopyfactory   Line: 260                                                                           \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.958985,
+      "\u001b[?25l\u001b[m\r\n\r\n\r\n\u001b[1m-- INSERT --\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.256001,
+      "\u001b[1;2H+s\b /s/k/a/e/queues.conf \u001b[?25l\u001b[m\u001b[22;1H\u001b[34m#\u001b[m\u001b[23;42H\u001b[1m\u001b[7m[+]   CWD: /afs/crc.nd.edu/user/k/khurtado/autopyfactory   Line: 260\u001b[22;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.186002,
+      "\u001b[?25l\u001b[m\u001b[34m \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.130987,
+      "\u001b[?25lL\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.113997,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165997,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206002,
+      "\u001b[?25l'\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004999,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161003,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150001,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168002,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056002,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135004,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089004,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097997,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097001,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194999,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133001,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064999,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.116001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.182996,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.451008,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1H\u001b[34m# \u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m1 \u001b[22;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.828,
+      "\u001b[?25l\u001b[m\u001b[22;2H\u001b[K\u001b[22;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.236998,
+      "\u001b[?25l\u001b[22;1H\u001b[K\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25l[ND_OPPORTUNISTIC_APF]\r\u001b[106m[\u001b[20C]\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.059003,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[21;1H[\u001b[20C]\u001b[23;109H\u001b[1m\u001b[7m2 \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[2;1H\u001b[9M\u001b[1;25r\u001b[13;1Henabled = True\r\nwmsqueue = FOO\r\nbatchqueue = FOO\r\nbatchstatusplugin = Condor\r\nwmsstatusplugin = Condor\r\n\r\nschedplugin = MinPerCycle, MaxPerCycle, MaxPending\r\nsched.minpercycle.minimum = 1\r\nsched.maxpercycle.maximum = 2\r\nsched.maxpending.maximum = 5\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;108H\u001b[1m\u001b[7m71 \u001b[22;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.939995,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m2 \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.214986,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m3 \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.456015,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.385998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25lW\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.232992,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089033,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213961,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.156982,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.043,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.299,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152002,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159998,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069999,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.145001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.238002,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085999,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.059,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.077,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104001,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079999,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119999,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.100014,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083987,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078994,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.170999,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089003,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.298001,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072997,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.086002,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.073998,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101294,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142711,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126996,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.08,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066001,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118001,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108005,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.049995,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.336,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.771008,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[22;1H\u001b[34m# \u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m4 \u001b[22;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.598995,
+      "\u001b[?25l\u001b[m\u001b[22;2H\u001b[K\u001b[22;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143997,
+      "\u001b[?25l\u001b[22;1H\u001b[K\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25l\u001b[2;22r\u001b[22;1H\r\n\u001b[1;25r\u001b[21;1Hbatchsubmitplugin = CondorLocal\r\nbatchsubmitplugin.condorlocal.proxy = None\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --"
+    ],
+    [
+      0.000989,
+      "\u001b[m\u001b[23;109H\u001b[1m\u001b[7m5 \u001b[22;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.628,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m6 \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.149995,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m7 \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115997,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.24,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239009,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068992,
+      "\u001b[?25ln\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120997,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109999,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.067,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114002,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.222,
+      "\u001b[?25lx\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.185999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.4,
+      "\u001b[?25l\u001b[m\u001b[22;13H\u001b[K\u001b[22;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152001,
+      "\u001b[?25l\u001b[22;12H\u001b[K\u001b[22;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140998,
+      "\u001b[?25l\u001b[22;11H\u001b[K\u001b[22;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.434002,
+      "\u001b[?25l\u001b[34mp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081998,
+      "\u001b[?25li\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205999,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.220027,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201974,
+      "\u001b[?25lx\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176999,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111001,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.145002,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051998,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164004,
+      "\u001b[?25lb\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.073996,
+      "\u001b[?25ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141001,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120005,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[2;1H\u001b[2M\u001b[1;25r\u001b[21;1H\u001b[34m# \u001b[m\r\n\u001b[1m\u001b[34m~                                                                                                                                                                                    \u001b[m\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m8 \u001b[21;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.665998,
+      "\u001b[?25l\u001b[m\u001b[21;2H\u001b[K\u001b[21;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.477997,
+      "\u001b[?25l\u001b[21;1H\u001b[K\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\u001b[?25lexecutable = /scratch365/khurtado/vc3-pilot/vc3-pilot\r\nexecutable.arguments = --require icecube-argonne-demo -- icecube-simple myoutput\u001b[22;81H\u001b[K\u001b[23;109H\u001b[1m\u001b[7m9 \u001b[22;81H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.685966,
+      "\u001b[23;109H8 \u001b[21;54H"
+    ],
+    [
+      0.532007,
+      "\u001b[?25l\u001b[2;22r\u001b[m\u001b[22;1H\r\n\u001b[1;25r\u001b[21;1H\u001b[K\u001b[22;1Hexecutable.arguments = --require icecube-argonne-demo -- icecube-simple myoutput\u001b[25;1H\u001b[K\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[23;109H\u001b[1m\u001b[7m9 \u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.486993,
+      "\u001b[?25l\u001b[m\u001b[34m#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.696001,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.327998,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101,
+      "\u001b[?25lh\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109011,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229989,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127999,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.283,
+      "\u001b[?25lp\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.075999,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179001,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.053999,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.259001,
+      "\u001b[?25lm\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.053,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.193001,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.043999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.243001,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117003,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120996,
+      "\u001b[?25la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.225999,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.334018,
+      "\u001b[?25lf\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131983,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152,
+      "\u001b[?25lt\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.795047,
+      "\u001b[?25l\u001b[m\u001b[21;28H\u001b[K\u001b[21;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229002,
+      "\u001b[?25l\u001b[34mi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.177011,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.090966,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.211999,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137995,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.059002,
+      "\u001b[?25lb\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.363004,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.403987,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[21;34H"
+    ],
+    [
+      0.500079,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.05793,
+      "\u001b[?25l\u001b[25;1H\u001b[1m-- INSERT --\u001b[21;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.685995,
+      "\u001b[1C"
+    ],
+    [
+      0.232003,
+      "\b"
+    ],
+    [
+      0.143998,
+      "\b"
+    ],
+    [
+      0.129003,
+      "\b"
+    ],
+    [
+      0.233,
+      "\b"
+    ],
+    [
+      0.75301,
+      "\b"
+    ],
+    [
+      0.140992,
+      "\b"
+    ],
+    [
+      0.363003,
+      "\b"
+    ],
+    [
+      0.156999,
+      "\u001b[?25l\u001b[m\u001b[34mticecube\u001b[21;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.122997,
+      "\u001b[?25lhicecube\u001b[21;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.077999,
+      "\u001b[?25leicecube\u001b[21;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110987,
+      "\u001b[?25l icecube\u001b[21;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163013,
+      "i"
+    ],
+    [
+      0.498,
+      "c"
+    ],
+    [
+      0.089,
+      "e"
+    ],
+    [
+      0.086,
+      "c"
+    ],
+    [
+      0.076,
+      "u"
+    ],
+    [
+      0.080999,
+      "b"
+    ],
+    [
+      0.085001,
+      "e"
+    ],
+    [
+      0.089001,
+      "\u0007"
+    ],
+    [
+      0.049002,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175999,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175999,
+      "\u001b[?25le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.08,
+      "\u001b[?25lm\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023988,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.315022,
+      "\u001b[m\u001b[25;1H\u001b[K\u001b[21;43H"
+    ],
+    [
+      0.499995,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025993,
+      "\u001b[?25l\r\n\r\n\r\n:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.199002,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068999,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.5,
+      "\r\u001b[?25l\"/scratch365/khurtado/apf/etc/queues.conf\""
+    ],
+    [
+      0.007998,
+      " 280L, 11228C written"
+    ],
+    [
+      0.005328,
+      "\r\r\n\r\r\n\u001b[?1l\u001b>\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002664,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "#"
+    ],
+    [
+      0.191997,
+      " "
+    ],
+    [
+      0.321,
+      "T"
+    ],
+    [
+      0.157,
+      "h"
+    ],
+    [
+      0.094999,
+      "a"
+    ],
+    [
+      0.161,
+      "t"
+    ],
+    [
+      0.225197,
+      "'"
+    ],
+    [
+      0.001838,
+      "s"
+    ],
+    [
+      0.111009,
+      " "
+    ],
+    [
+      0.125959,
+      "a"
+    ],
+    [
+      0.120002,
+      "l"
+    ],
+    [
+      0.143997,
+      "l"
+    ],
+    [
+      0.059,
+      " "
+    ],
+    [
+      0.142,
+      "f"
+    ],
+    [
+      0.07,
+      "o"
+    ],
+    [
+      0.119998,
+      "r"
+    ],
+    [
+      0.077002,
+      " "
+    ],
+    [
+      0.150001,
+      "t"
+    ],
+    [
+      0.126,
+      "h"
+    ],
+    [
+      0.111,
+      "e"
+    ],
+    [
+      0.069998,
+      " "
+    ],
+    [
+      0.772001,
+      "i"
+    ],
+    [
+      0.049999,
+      "n"
+    ],
+    [
+      0.122,
+      "s"
+    ],
+    [
+      0.154,
+      "t"
+    ],
+    [
+      0.067,
+      "a"
+    ],
+    [
+      0.046,
+      "l"
+    ],
+    [
+      0.144,
+      "l"
+    ],
+    [
+      0.019,
+      "a"
+    ],
+    [
+      0.170002,
+      "t"
+    ],
+    [
+      0.070998,
+      "i"
+    ],
+    [
+      0.031002,
+      "o"
+    ],
+    [
+      0.197003,
+      "n"
+    ],
+    [
+      0.087999,
+      " "
+    ],
+    [
+      0.282,
+      "a"
+    ],
+    [
+      0.069999,
+      "n"
+    ],
+    [
+      0.13,
+      "d"
+    ],
+    [
+      0.061998,
+      " "
+    ],
+    [
+      0.119002,
+      "c"
+    ],
+    [
+      0.113,
+      "o"
+    ],
+    [
+      0.048999,
+      "n"
+    ],
+    [
+      0.063001,
+      "f"
+    ],
+    [
+      0.104,
+      "i"
+    ],
+    [
+      0.079,
+      "g"
+    ],
+    [
+      0.138,
+      "u"
+    ],
+    [
+      0.153,
+      "r"
+    ],
+    [
+      0.038,
+      "a"
+    ],
+    [
+      0.169,
+      "t"
+    ],
+    [
+      0.094,
+      "i"
+    ],
+    [
+      0.024,
+      "o"
+    ],
+    [
+      0.236001,
+      "n"
+    ],
+    [
+      0.631022,
+      "."
+    ],
+    [
+      0.769981,
+      "\r\n~/autopyfactory $"
+    ],
+    [
+      1.421995,
+      "w"
+    ],
+    [
+      0.148004,
+      "h"
+    ],
+    [
+      0.058996,
+      "i"
+    ],
+    [
+      0.181998,
+      "c"
+    ],
+    [
+      0.081002,
+      "h"
+    ],
+    [
+      0.114,
+      " "
+    ],
+    [
+      0.182,
+      "a"
+    ],
+    [
+      0.110998,
+      "u"
+    ],
+    [
+      0.146002,
+      "t"
+    ],
+    [
+      0.070999,
+      "o"
+    ],
+    [
+      0.166001,
+      "p"
+    ],
+    [
+      0.122,
+      "y"
+    ],
+    [
+      0.419,
+      "f"
+    ],
+    [
+      0.036,
+      "a"
+    ],
+    [
+      0.169,
+      "c"
+    ],
+    [
+      0.195,
+      "t"
+    ],
+    [
+      0.061,
+      "o"
+    ],
+    [
+      0.087999,
+      "r"
+    ],
+    [
+      0.217005,
+      "y"
+    ],
+    [
+      0.71101,
+      "\r\n"
+    ],
+    [
+      0.004126,
+      "/scratch365/khurtado/apf/bin/autopyfactory\r\n"
+    ],
+    [
+      0.000949,
+      "~/autopyfactory $"
+    ],
+    [
+      0.759997,
+      "a"
+    ],
+    [
+      0.157,
+      "u"
+    ],
+    [
+      0.176002,
+      "t"
+    ],
+    [
+      0.068997,
+      "o"
+    ],
+    [
+      0.224,
+      "p"
+    ],
+    [
+      0.326,
+      "y"
+    ],
+    [
+      0.262004,
+      "f"
+    ],
+    [
+      0.028996,
+      "a"
+    ],
+    [
+      0.174001,
+      "c"
+    ],
+    [
+      0.204999,
+      "t"
+    ],
+    [
+      0.065,
+      "o"
+    ],
+    [
+      0.108,
+      "r"
+    ],
+    [
+      0.322,
+      "y"
+    ],
+    [
+      0.198001,
+      " "
+    ],
+    [
+      0.111,
+      "-"
+    ],
+    [
+      0.842,
+      "-"
+    ],
+    [
+      0.263999,
+      "h"
+    ],
+    [
+      0.163001,
+      "e"
+    ],
+    [
+      0.146999,
+      "l"
+    ],
+    [
+      0.049,
+      "p"
+    ],
+    [
+      0.188014,
+      "\r\n"
+    ],
+    [
+      0.147069,
+      "Usage: autopyfactory [OPTIONS]\r\nautopyfactory is an ATLAS pilot factory.\r\n\r\nThis program is licenced under the GPL, as set out in LICENSE file.\r\n\r\nAuthor(s):\r\nGraeme A Stewart <g.stewart@physics.gla.ac.uk>\r\nPeter Love <p.love@lancaster.ac.uk>\r\nJohn Hover <jhover@bnl.gov>\r\nJose Caballero <jcaballero@bnl.gov>\r\n\r\n\r\nOptions:\r\n  --version             show program's version number and exit\r\n  -h, --help            show this help message and exit\r\n  --trace               Set logging level to TRACE [default WARNING], super\r\n                        verbose\r\n  -d, --debug           Set logging level to DEBUG [default WARNING]\r\n  -v, --info            Set logging level to INFO [default WARNING]\r\n  --console             Forces debug and info messages to be sent to the\r\n                        console\r\n  --quiet               Set logging level to WARNING [default]\r\n  --oneshot, --one-shot\r\n                        Run one cycle only\r\n  --cycles=CYCLES       Run CYCLES times, then exit [default infinite]\r\n  --sleep=TIME    "
+    ],
+    [
+      5e-05,
+      "      Sleep TIME seconds between cycles [default 120]\r\n  --conf=FILE1[,FILE2,FILE3]\r\n                        Load configuration from FILEs (comma separated list)\r\n  --log=LOGFILE         Send logging output to LOGFILE or SYSLOG or stdout\r\n                        [default <syslog>]\r\n  --runas=USERNAME      If run as root, drop privileges to USER\r\n"
+    ],
+    [
+      0.01879,
+      "~/autopyfactory $"
+    ],
+    [
+      1.5,
+      "^A"
+    ],
+    [
+      1.024011,
+      "\b\b\u001b[K"
+    ]
+  ],
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "height": 25,
+  "command": null
+}
