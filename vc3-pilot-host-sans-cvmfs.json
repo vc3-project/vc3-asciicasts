@@ -1,0 +1,690 @@
+{
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "width": 90,
+  "title": null,
+  "duration": 49.061647,
+  "height": 25,
+  "version": 1,
+  "command": "/bin/bash -l",
+  "stdout": [
+    [
+      0.0,
+      "% # Using the VC3 pilot to ensure /cvmfs is available."
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      1.106236,
+      "s"
+    ],
+    [
+      0.246935,
+      "t"
+    ],
+    [
+      0.132339,
+      "a"
+    ],
+    [
+      0.223317,
+      "t"
+    ],
+    [
+      0.616472,
+      " "
+    ],
+    [
+      0.220924,
+      "/"
+    ],
+    [
+      0.100254,
+      "c"
+    ],
+    [
+      0.18189,
+      "v"
+    ],
+    [
+      0.166451,
+      "m"
+    ],
+    [
+      0.109532,
+      "f"
+    ],
+    [
+      0.061642,
+      "s"
+    ],
+    [
+      0.184009,
+      "/"
+    ],
+    [
+      0.827459,
+      "c"
+    ],
+    [
+      0.166915,
+      "m"
+    ],
+    [
+      0.188202,
+      "s"
+    ],
+    [
+      0.208412,
+      "."
+    ],
+    [
+      0.420018,
+      "c"
+    ],
+    [
+      0.205891,
+      "e"
+    ],
+    [
+      0.19874,
+      "r"
+    ],
+    [
+      0.141928,
+      "n"
+    ],
+    [
+      0.246745,
+      "."
+    ],
+    [
+      0.428215,
+      "c"
+    ],
+    [
+      0.166773,
+      "h"
+    ],
+    [
+      2.0,
+      "\r\n"
+    ],
+    [
+      0.00159,
+      "stat: cannot stat '/cvmfs/cms.cern.ch'"
+    ],
+    [
+      9.1e-05,
+      ": No such file or directory\r\n"
+    ],
+    [
+      0.0,
+      "% "
+    ],
+    [
+      2.0,
+      "# Host does not provide native cvmfs access. The pilot detects this,"
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      2.0,
+      "# and sets the necessary tools (i.e. parrot_run) to provide cvmfs access."
+    ],
+    [
+      2.0,
+      "\r\n"
+    ],
+    [
+      3.6e-05,
+      "% "
+    ],
+    [
+      0.604939,
+      "."
+    ],
+    [
+      0.222086,
+      "/"
+    ],
+    [
+      0.196071,
+      "v"
+    ],
+    [
+      0.237481,
+      "c"
+    ],
+    [
+      0.709432,
+      "3"
+    ],
+    [
+      0.424155,
+      "-"
+    ],
+    [
+      0.342315,
+      "p"
+    ],
+    [
+      0.228576,
+      "i"
+    ],
+    [
+      0.230719,
+      "l"
+    ],
+    [
+      0.18956,
+      "o"
+    ],
+    [
+      0.420492,
+      "t"
+    ],
+    [
+      0.176721,
+      " "
+    ],
+    [
+      0.205283,
+      "-"
+    ],
+    [
+      0.149797,
+      "-"
+    ],
+    [
+      0.107665,
+      "r"
+    ],
+    [
+      0.086627,
+      "e"
+    ],
+    [
+      0.204424,
+      "q"
+    ],
+    [
+      0.255465,
+      "u"
+    ],
+    [
+      0.206445,
+      "i"
+    ],
+    [
+      0.140544,
+      "r"
+    ],
+    [
+      0.046848,
+      "e"
+    ],
+    [
+      0.163535,
+      " "
+    ],
+    [
+      0.167262,
+      "c"
+    ],
+    [
+      0.182298,
+      "v"
+    ],
+    [
+      0.110806,
+      "m"
+    ],
+    [
+      0.189111,
+      "f"
+    ],
+    [
+      0.054697,
+      "s"
+    ],
+    [
+      2.0,
+      "\r\n"
+    ],
+    [
+      1.0,
+      "processing for cvmfs-v2.0\r\nchecking for cvmfs-v2.0\r\n"
+    ],
+    [
+      3.2e-05,
+      "preparing 'cvmfs' for x86_64/generic\r\n"
+    ],
+    [
+      0.002526,
+      "building 'cvmfs' for x86_64/generic\r\n"
+    ],
+    [
+      0.000282,
+      "details: /home/magrat/ccl/vc3-pilot-job/vc3-root/x86_64/generic/cvmfs-v2.0/cvmfs-build-log\r\n"
+    ],
+    [
+      0.002434,
+      "'cvmfs' failed to build for x86_64/generic\r\nLast lines of log file:\r\n"
+    ],
+    [
+      0.001555,
+      "stat /cvmfs/cms.cern.ch\r\n+ : Fri Sep 2 16:53:52 2016\r\n+ cd /home/magrat/ccl/vc3-pilot-job/vc3-root/builds/cvmfs\r\n+ : Fri Sep 2 16:53:52 2016\r\n+ stat /cvmfs/cms.cern.ch\r\nstat: cannot stat '/cvmfs/cms.cern.ch': No such file or directory\r\n"
+    ],
+    [
+      3.1e-05,
+      ".cvmfs-v2.0 needs parrot\r\n"
+    ],
+    [
+      0.00085,
+      ".processing for parrot-v5.4.19\r\n"
+    ],
+    [
+      0.000148,
+      "..parrot-v5.4.19 needs cctools\r\n"
+    ],
+    [
+      0.000569,
+      "..processing for cctools-v5.4.19\r\n"
+    ],
+    [
+      2.3e-05,
+      "...cctools-v5.4.19 needs zlib\r\n"
+    ],
+    [
+      0.000581,
+      "...processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.00019,
+      "...checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000135,
+      "...cctools-v5.4.19 needs python\r\n"
+    ],
+    [
+      0.000558,
+      "...processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000148,
+      "...checking for python-v2.7.12\r\n"
+    ],
+    [
+      1.9e-05,
+      "...cctools-v5.4.19 needs perl\r\n"
+    ],
+    [
+      0.000568,
+      "...processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000136,
+      "...checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000172,
+      "..checking for cctools-v5.4.19\r\n"
+    ],
+    [
+      0.000135,
+      "...cctools-v5.4.19 needs openssl\r\n"
+    ],
+    [
+      0.000509,
+      "...processing for openssl-v1.0.2\r\n"
+    ],
+    [
+      2e-05,
+      "....openssl-v1.0.2 needs zlib\r\n"
+    ],
+    [
+      0.000593,
+      "....processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000143,
+      "....checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000197,
+      "...checking for openssl-v1.0.2\r\n"
+    ],
+    [
+      0.000139,
+      "...cctools-v5.4.19 needs libcvmfs\r\n"
+    ],
+    [
+      0.000425,
+      "...processing for libcvmfs-v2.2\r\n"
+    ],
+    [
+      0.000136,
+      "...checking for libcvmfs-v2.2\r\n....libcvmfs-v2.2 needs openssl\r\n"
+    ],
+    [
+      0.000549,
+      "....processing for openssl-v1.0.2\r\n"
+    ],
+    [
+      2e-05,
+      ".....openssl-v1.0.2 needs zlib\r\n"
+    ],
+    [
+      0.000554,
+      ".....processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000157,
+      ".....checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000183,
+      "....checking for openssl-v1.0.2\r\n"
+    ],
+    [
+      0.000132,
+      "....libcvmfs-v2.2 needs uuid\r\n"
+    ],
+    [
+      0.000496,
+      "....processing for uuid-v1.0.3\r\n"
+    ],
+    [
+      0.000145,
+      "....checking for uuid-v1.0.3\r\n"
+    ],
+    [
+      8.5e-05,
+      "....libcvmfs-v2.2 needs patch\r\n"
+    ],
+    [
+      0.000581,
+      "....processing for patch-v2.7.5\r\n"
+    ],
+    [
+      7.2e-05,
+      "....checking for patch-v2.7.5\r\n"
+    ],
+    [
+      8.6e-05,
+      "....libcvmfs-v2.2 needs attr\r\n"
+    ],
+    [
+      0.000575,
+      "....processing for attr-v2.4.47\r\n"
+    ],
+    [
+      1.9e-05,
+      ".....attr-v2.4.47 needs gettext\r\n"
+    ],
+    [
+      0.005079,
+      ".....processing for gettext-v0.19.8\r\n.....checking for gettext-v0.19.8\r\n....checking for attr-v2.4.47\r\n....libcvmfs-v2.2 needs fuse\r\n....processing for fuse-v2.9.3\r\n....checking for fuse-v2.9.3\r\n....libcvmfs-v2.2 needs cmake\r\n....processing for cmake-v3.5.2\r\n....checking for cmake-v3.5.2\r\n...cctools-v5.4.19 needs uuid\r\n...processing for uuid-v1.0.3\r\n...checking for uuid-v1.0.3\r\n...cctools-v5.4.19 needs perl\r\n...processing for perl-v5.24.0\r\n...checking for perl-v5.24.0\r\n...cctools-v5.4.19 needs python\r\n...processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000134,
+      "...checking for python-v2.7.12\r\n"
+    ],
+    [
+      0.000862,
+      "...cctools-v5.4.19 needs swig\r\n...processing for swig-v3.0.2\r\n...checking for swig-v3.0.2\r\n....swig-v3.0.2 needs pcre\r\n"
+    ],
+    [
+      0.000576,
+      "....processing for pcre-v8.39\r\n"
+    ],
+    [
+      0.00029,
+      "....checking for pcre-v8.39\r\n"
+    ],
+    [
+      0.000104,
+      "....swig-v3.0.2 needs perl\r\n"
+    ],
+    [
+      0.000571,
+      "....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000148,
+      "....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      9.2e-05,
+      "....swig-v3.0.2 needs python\r\n"
+    ],
+    [
+      0.000615,
+      "....processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000119,
+      "....checking for python-v2.7.12\r\n"
+    ],
+    [
+      0.000181,
+      ".checking for parrot-v5.4.19\r\n"
+    ],
+    [
+      1.9e-05,
+      "preparing 'cvmfs' for x86_64/generic\r\n"
+    ],
+    [
+      0.002612,
+      "building 'cvmfs' for x86_64/generic"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "details: /home/magrat/ccl/vc3-pilot-job/vc3-root/x86_64/generic/cvmfs-v2.0/cvmfs-build-log"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      2.591505,
+      "building phase done!\r\n$ "
+    ],
+    [
+      2.0,
+      "# We are inside the environment created by the VC3 pilot." 
+    ],
+    [
+      2.0,
+      "\r\n$ "
+    ],
+    [
+      2.0,
+      "s"
+    ],
+    [
+      0.231102,
+      "t"
+    ],
+    [
+      0.220331,
+      "a"
+    ],
+    [
+      0.279491,
+      "t"
+    ],
+    [
+      0.536492,
+      " "
+    ],
+    [
+      0.277282,
+      "/"
+    ],
+    [
+      0.563461,
+      "c"
+    ],
+    [
+      0.166186,
+      "v"
+    ],
+    [
+      0.150119,
+      "m"
+    ],
+    [
+      0.125802,
+      "f"
+    ],
+    [
+      0.069733,
+      "s"
+    ],
+    [
+      0.231946,
+      "/"
+    ],
+    [
+      0.587404,
+      "c"
+    ],
+    [
+      0.150887,
+      "m"
+    ],
+    [
+      0.196063,
+      "s"
+    ],
+    [
+      0.176779,
+      "."
+    ],
+    [
+      0.10791,
+      "c"
+    ],
+    [
+      0.221811,
+      "e"
+    ],
+    [
+      0.230545,
+      "r"
+    ],
+    [
+      0.230346,
+      "n"
+    ],
+    [
+      0.27071,
+      "."
+    ],
+    [
+      0.124031,
+      "c"
+    ],
+    [
+      0.238842,
+      "h"
+    ],
+    [
+      1.239843,
+      "\r\n"
+    ],
+    [
+      0.12665,
+      "  File: '/cvmfs/cms.cern.ch'\r\n"
+    ],
+    [
+      0.000254,
+      "  Size: 4096      \tBlocks: 9          IO Block: 65336  directory\r\n"
+    ],
+    [
+      0.000199,
+      "Device: 1h/1d"
+    ],
+    [
+      3.6e-05,
+      "\t"
+    ],
+    [
+      9.9e-05,
+      "Inode: 256         Links: 1\r\n"
+    ],
+    [
+      0.007282,
+      "Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\r\n"
+    ],
+    [
+      0.0003,
+      "Access: 2014-08-29 04:09:49.000000000 -0400\r\n"
+    ],
+    [
+      0.000358,
+      "Modify: 2014-08-29 04:09:49.000000000 -0400\r\n"
+    ],
+    [
+      0.000106,
+      "Change: 2014-08-29 04:09:49.000000000 -0400\r\n"
+    ],
+    [
+      2.9e-05,
+      " Birth: -\r\n"
+    ],
+    [
+      0.0,
+      "$ "
+    ],
+    [
+      2.0,
+      "# We now leave the VC3 pilot environment:"
+    ],
+    [
+      1.0,
+      "\r\n$ "
+    ],
+    [
+      1.599886,
+      "e"
+    ],
+    [
+      0.269451,
+      "x"
+    ],
+    [
+      0.239609,
+      "i"
+    ],
+    [
+      0.324925,
+      "t"
+    ],
+    [
+      0.568423,
+      "\r\n"
+    ],
+    [
+      0.010085,
+      "% "
+    ],
+    [
+      0.337113,
+      "logout\r\n"
+    ]
+  ]
+}

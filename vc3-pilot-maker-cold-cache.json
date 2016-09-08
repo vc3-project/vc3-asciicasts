@@ -1,0 +1,2810 @@
+{
+  "command": "/bin/bash -l",
+  "duration": 181.643319,
+  "stdout": [
+    [
+      0.082078,
+      "% "
+    ],
+    [
+      2.0,
+      "# Using the VC3 pilot to set an environment for a bioinformatics task."
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      2.0,
+      "# The pilot sets up 'maker' to run comparison on ecoli DNA sequences."
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      2.0,
+      "# We start from a clean installation, thus the pilot needs to download and"
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      1.0,
+      "# (perhaps) compile the require dependencies."
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      2.0,
+      "\r\n% "
+    ],
+    [
+      0.468517,
+      "."
+    ],
+    [
+      0.191116,
+      "/"
+    ],
+    [
+      0.194982,
+      "v"
+    ],
+    [
+      0.094684,
+      "c"
+    ],
+    [
+      0.732551,
+      "3"
+    ],
+    [
+      0.312312,
+      "-"
+    ],
+    [
+      0.285828,
+      "p"
+    ],
+    [
+      0.197033,
+      "i"
+    ],
+    [
+      0.198421,
+      "l"
+    ],
+    [
+      0.190017,
+      "o"
+    ],
+    [
+      0.132025,
+      "t"
+    ],
+    [
+      0.280668,
+      " "
+    ],
+    [
+      0.253409,
+      "-"
+    ],
+    [
+      0.166873,
+      "-"
+    ],
+    [
+      0.091416,
+      "r"
+    ],
+    [
+      0.070327,
+      "e"
+    ],
+    [
+      0.188865,
+      "q"
+    ],
+    [
+      0.100735,
+      "u"
+    ],
+    [
+      0.168552,
+      "i"
+    ],
+    [
+      0.148627,
+      "r"
+    ],
+    [
+      0.030371,
+      "e"
+    ],
+    [
+      0.111903,
+      " "
+    ],
+    [
+      0.660179,
+      "m"
+    ],
+    [
+      0.052744,
+      "a"
+    ],
+    [
+      0.143658,
+      "k"
+    ],
+    [
+      0.100495,
+      "e"
+    ],
+    [
+      0.118816,
+      "r"
+    ],
+    [
+      0.14322,
+      "-"
+    ],
+    [
+      0.123411,
+      "e"
+    ],
+    [
+      0.213634,
+      "x"
+    ],
+    [
+      0.221502,
+      "a"
+    ],
+    [
+      0.119917,
+      "m"
+    ],
+    [
+      0.199404,
+      "p"
+    ],
+    [
+      0.205301,
+      "l"
+    ],
+    [
+      0.148092,
+      "e"
+    ],
+    [
+      0.14412,
+      "-"
+    ],
+    [
+      0.091496,
+      "e"
+    ],
+    [
+      0.222203,
+      "c"
+    ],
+    [
+      0.095745,
+      "o"
+    ],
+    [
+      0.174516,
+      "l"
+    ],
+    [
+      0.189421,
+      "i"
+    ],
+    [
+      0.718248,
+      "-"
+    ],
+    [
+      0.4536,
+      "0"
+    ],
+    [
+      0.322424,
+      "1"
+    ],
+    [
+      1.06618,
+      "\r\n"
+    ],
+    [
+      0.182408,
+      "processing for maker-example-ecoli-01-v1"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.00016,
+      ".maker-example-ecoli-01-v1 needs maker"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000745,
+      ".processing for maker-v2.31"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.00015,
+      "..maker-v2.31 needs perl-dbd-sqlite"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000664,
+      "..processing for perl-dbd-sqlite-v1.5"
+    ],
+    [
+      4.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "...perl-dbd-sqlite-v1.5 needs perl-cpanminus"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.00067,
+      "...processing for perl-cpanminus-v1.7"
+    ],
+    [
+      4.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "....perl-cpanminus-v1.7 needs perl-local-lib"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000739,
+      "....processing for perl-local-lib-v2.000019"
+    ],
+    [
+      4.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      ".....perl-local-lib-v2.000019 needs perl"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000756,
+      ".....processing for perl-v5.24.0"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      ".....checking for perl-v5.24.0"
+    ],
+    [
+      4.6e-05,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      ".....preparing 'perl' for x86_64/generic"
+    ],
+    [
+      4.7e-05,
+      "\r\n"
+    ],
+    [
+      0.001049,
+      ".....Downloading 'perl-5.24.0.tar.gz' from http://download.virtualclusters.org/repository"
+    ],
+    [
+      5.2e-05,
+      "\r\n"
+    ],
+    [
+      2.0,
+      ".....building 'perl' for x86_64/generic"
+    ],
+    [
+      7e-05,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      ".....details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-v5.24.0/perl-build-log"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "....checking for perl-local-lib-v2.000019"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.002504,
+      "....preparing 'perl-local-lib' for x86_64/generic"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000907,
+      "....Downloading 'local-lib-2.000019.tar.gz' from http://download.virtualclusters.org/repository"
+    ],
+    [
+      5.2e-05,
+      "\r\n"
+    ],
+    [
+      0.727676,
+      "....building 'perl-local-lib' for x86_64/generic"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      8.7e-05,
+      "....details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-local-lib-v2.000019/perl-local-lib-build-log"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      1.555568,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000248,
+      "...preparing 'perl-cpanminus' for x86_64/generic"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "...Downloading 'cpanminus-1.7.distribution' from http://download.virtualclusters.org/repository"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.93969,
+      "...building 'perl-cpanminus' for x86_64/generic\r\n...details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-cpanminus-v1.7/perl-cpanminus-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..checking for perl-dbd-sqlite-v1.5"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "..preparing 'perl-dbd-sqlite' for x86_64/generic"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.001987,
+      "..building 'perl-dbd-sqlite' for x86_64/generic"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.00013,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-dbd-sqlite-v1.5/perl-dbd-sqlite-build-log"
+    ],
+    [
+      0.00016,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-file-which"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.023077,
+      "..processing for perl-file-which-v1.2"
+    ],
+    [
+      0.00013,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "...perl-file-which-v1.2 needs perl-cpanminus"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000675,
+      "...processing for perl-cpanminus-v1.7"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "....perl-cpanminus-v1.7 needs perl-local-lib"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.000704,
+      "....processing for perl-local-lib-v2.000019"
+    ],
+    [
+      6.5e-05,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      ".....perl-local-lib-v2.000019 needs perl"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.00068,
+      ".....processing for perl-v5.24.0"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.00024,
+      ".....checking for perl-v5.24.0"
+    ],
+    [
+      0.00012,
+      "\r\n"
+    ],
+    [
+      0.000571,
+      "....checking for perl-local-lib-v2.000019"
+    ],
+    [
+      0.00014,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "...checking for perl-cpanminus-v1.7"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "..checking for perl-file-which-v1.2"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.020978,
+      "..preparing 'perl-file-which' for x86_64/generic"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.051118,
+      "..building 'perl-file-which' for x86_64/generic"
+    ],
+    [
+      5.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-file-which-v1.2/perl-file-which-build-log"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs augustus"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.000793,
+      "..processing for augustus-v2.4"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "..checking for augustus-v2.4"
+    ],
+    [
+      0.00012,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "..preparing 'augustus' for x86_64/generic"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.008058,
+      "..Downloading 'augustus.2.4.src.tar.gz' from http://download.virtualclusters.org/repository"
+    ],
+    [
+      0.00023,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..building 'augustus' for x86_64/generic"
+    ],
+    [
+      6.2e-05,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/augustus-v2.4/augustus-build-log"
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs repeatmasker"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.00088,
+      "..processing for repeatmasker-v4.0.6"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "...repeatmasker-v4.0.6 needs repeatmasker-restricted"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000671,
+      "...processing for repeatmasker-restricted-v4.0.6"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "....repeatmasker-restricted-v4.0.6 needs repeatmasker-free"
+    ],
+    [
+      5.5e-05,
+      "\r\n"
+    ],
+    [
+      0.00065,
+      "....processing for repeatmasker-free-v4.0.6"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      ".....repeatmasker-free-v4.0.6 needs trf"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.00061,
+      ".....processing for trf-v4.09"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      ".....checking for trf-v4.09"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.003387,
+      ".....preparing 'trf' for x86_64/generic"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.069417,
+      ".....building 'trf' for x86_64/generic"
+    ],
+    [
+      7e-05,
+      "\r\n"
+    ],
+    [
+      0.0001,
+      ".....details: /home/magrat/tmp/vc3-root/x86_64/generic/trf-v4.09/trf-build-log"
+    ],
+    [
+      5.5e-05,
+      "\r\n"
+    ],
+    [
+      0.051294,
+      ".....repeatmasker-free-v4.0.6 needs rmblast"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000939,
+      ".....processing for rmblast-v2.2.28"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "......rmblast-v2.2.28 needs sqlite3"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000587,
+      "......processing for sqlite3-v3.13"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.00026,
+      "......checking for sqlite3-v3.13"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "......preparing 'sqlite3' for x86_64/generic"
+    ],
+    [
+      5.5e-05,
+      "\r\n"
+    ],
+    [
+      0.000442,
+      "......Downloading 'sqlite-autoconf-3130000.tar.gz' from http://download.virtualclusters.org/repository"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      1.29397,
+      "......building 'sqlite3' for x86_64/generic"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "......details: /home/magrat/tmp/vc3-root/x86_64/generic/sqlite3-v3.13/sqlite3-build-log"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "......rmblast-v2.2.28 needs zlib\r\n"
+    ],
+    [
+      0.024616,
+      "......processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000284,
+      "......checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000145,
+      "......preparing 'zlib' for x86_64/generic\r\n"
+    ],
+    [
+      0.000383,
+      "......Downloading 'zlib-1.2.8.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "......building 'zlib' for x86_64/generic\r\n......details: /home/magrat/tmp/vc3-root/x86_64/generic/zlib-v1.2.8/zlib-build-log\r\n"
+    ],
+    [
+      1.991754,
+      "......rmblast-v2.2.28 needs python\r\n"
+    ],
+    [
+      0.000785,
+      "......processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000223,
+      "......checking for python-v2.7.12\r\n"
+    ],
+    [
+      0.000149,
+      "......preparing 'python' for x86_64/generic\r\n"
+    ],
+    [
+      0.000411,
+      "......Downloading 'Python-2.7.12.tgz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "......building 'python' for x86_64/generic\r\n......details: /home/magrat/tmp/vc3-root/x86_64/generic/python-v2.7.12/python-build-log\r\n"
+    ],
+    [
+      2.0,
+      "......rmblast-v2.2.28 needs perl\r\n"
+    ],
+    [
+      0.000737,
+      "......processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000211,
+      "......checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000149,
+      "......rmblast-v2.2.28 needs pcre\r\n"
+    ],
+    [
+      0.000521,
+      "......processing for pcre-v8.39\r\n"
+    ],
+    [
+      0.000263,
+      "......checking for pcre-v8.39\r\n"
+    ],
+    [
+      0.000114,
+      "......preparing 'pcre' for x86_64/generic\r\n"
+    ],
+    [
+      0.000506,
+      "......Downloading 'pcre-8.39.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.959605,
+      "......building 'pcre' for x86_64/generic"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      6.7e-05,
+      "......details: /home/magrat/tmp/vc3-root/x86_64/generic/pcre-v8.39/pcre-build-log"
+    ],
+    [
+      3e-05,
+      "\r\n"
+    ],
+    [
+      2.0,
+      ".....checking for rmblast-v2.2.28\r\n"
+    ],
+    [
+      7.4e-05,
+      ".....preparing 'rmblast' for x86_64/generic\r\n"
+    ],
+    [
+      0.000283,
+      ".....Downloading 'ncbi-rmblastn-2.2.28-x64-linux.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      ".....building 'rmblast' for x86_64/generic\r\n.....details: /home/magrat/tmp/vc3-root/x86_64/generic/rmblast-v2.2.28/rmblast-build-log\r\n"
+    ],
+    [
+      0.263334,
+      ".....repeatmasker-free-v4.0.6 needs hmmer\r\n.....processing for hmmer-v3.1\r\n......hmmer-v3.1 needs openmpi\r\n"
+    ],
+    [
+      0.000388,
+      "......processing for openmpi-v1.10\r\n"
+    ],
+    [
+      0.000252,
+      "......checking for openmpi-v1.10\r\n"
+    ],
+    [
+      0.000111,
+      "......preparing 'openmpi' for x86_64/generic\r\n"
+    ],
+    [
+      0.000344,
+      "......Downloading 'openmpi-1.10.3.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "......building 'openmpi' for x86_64/generic\r\n......details: /home/magrat/tmp/vc3-root/x86_64/generic/openmpi-v1.10/openmpi-build-log\r\n"
+    ],
+    [
+      2.0,
+      ".....checking for hmmer-v3.1\r\n.....preparing 'hmmer' for x86_64/generic\r\n.....Downloading 'hmmer-3.1b2.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      ".....building 'hmmer' for x86_64/generic\r\n.....details: /home/magrat/tmp/vc3-root/x86_64/generic/hmmer-v3.1/hmmer-build-log\r\n"
+    ],
+    [
+      2.0,
+      ".....repeatmasker-free-v4.0.6 needs perl\r\n"
+    ],
+    [
+      0.101519,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      3.3e-05,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000132,
+      ".....repeatmasker-free-v4.0.6 needs perl-text-soundex\r\n"
+    ],
+    [
+      0.000491,
+      ".....processing for perl-text-soundex-v3.0\r\n"
+    ],
+    [
+      2.2e-05,
+      "......perl-text-soundex-v3.0 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000473,
+      "......processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      1.9e-05,
+      ".......perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000578,
+      ".......processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      1.9e-05,
+      "........perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000569,
+      "........processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000142,
+      "........checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000258,
+      ".......checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.030571,
+      "......checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.004876,
+      ".....checking for perl-text-soundex-v3.0\r\n"
+    ],
+    [
+      8.2e-05,
+      ".....preparing 'perl-text-soundex' for x86_64/generic\r\n"
+    ],
+    [
+      0.002016,
+      ".....building 'perl-text-soundex' for x86_64/generic"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      ".....details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-text-soundex-v3.0/perl-text-soundex-build-log"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      2.0,
+      ".....repeatmasker-free-v4.0.6 needs ncbi-blast\r\n"
+    ],
+    [
+      0.001078,
+      ".....processing for ncbi-blast-v2.2.28\r\n"
+    ],
+    [
+      3.3e-05,
+      "......ncbi-blast-v2.2.28 needs sqlite3"
+    ],
+    [
+      2.5e-05,
+      "\r\n"
+    ],
+    [
+      0.000803,
+      "......processing for sqlite3-v3.13\r\n"
+    ],
+    [
+      0.000375,
+      "......checking for sqlite3-v3.13\r\n"
+    ],
+    [
+      0.006431,
+      "......ncbi-blast-v2.2.28 needs python\r\n"
+    ],
+    [
+      0.000593,
+      "......processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000126,
+      "......checking for python-v2.7.12\r\n"
+    ],
+    [
+      0.03242,
+      "......ncbi-blast-v2.2.28 needs zlib\r\n"
+    ],
+    [
+      0.00061,
+      "......processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000282,
+      "......checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.00831,
+      "......ncbi-blast-v2.2.28 needs perl\r\n"
+    ],
+    [
+      0.000733,
+      "......processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000119,
+      "......checking for perl-v5.24.0\r\n"
+    ],
+    [
+      9.8e-05,
+      "......ncbi-blast-v2.2.28 needs pcre\r\n"
+    ],
+    [
+      0.000513,
+      "......processing for pcre-v8.39\r\n"
+    ],
+    [
+      0.000257,
+      "......checking for pcre-v8.39\r\n"
+    ],
+    [
+      0.005963,
+      ".....checking for ncbi-blast-v2.2.28\r\n"
+    ],
+    [
+      6.6e-05,
+      ".....preparing 'ncbi-blast' for x86_64/generic\r\n"
+    ],
+    [
+      0.000388,
+      ".....Downloading 'ncbi-blast-2.2.28+-x64-linux.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      ".....building 'ncbi-blast' for x86_64/generic"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      ".....details: /home/magrat/tmp/vc3-root/x86_64/generic/ncbi-blast-v2.2.28/ncbi-blast-build-log"
+    ],
+    [
+      0.000522,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "....checking for repeatmasker-free-v4.0.6\r\n"
+    ],
+    [
+      0.00014,
+      "....preparing 'repeatmasker-free' for x86_64/generic\r\n"
+    ],
+    [
+      7.5e-05,
+      "....Downloading 'RepeatMasker-open-4-0-6.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "....Downloading 'VC3_RepeatMasker-open-4-0-6.configure' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.484154,
+      "....building 'repeatmasker-free' for x86_64/generic\r\n....details: /home/magrat/tmp/vc3-root/x86_64/generic/repeatmasker-free-v4.0.6/repeatmasker-free-build-log\r\n"
+    ],
+    [
+      2.0,
+      "...checking for repeatmasker-restricted-v4.0.6\r\n"
+    ],
+    [
+      3.9e-05,
+      "...preparing 'repeatmasker-restricted' for x86_64/generic\r\n"
+    ],
+    [
+      0.070371,
+      "...building 'repeatmasker-restricted' for x86_64/generic\r\n...details: /home/magrat/tmp/vc3-root/x86_64/generic/repeatmasker-restricted-v4.0.6/repeatmasker-restricted-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..checking for repeatmasker-v4.0.6\r\n..maker-v2.31 needs perl-io-prompt"
+    ],
+    [
+      6.5e-05,
+      "\r\n"
+    ],
+    [
+      0.055709,
+      "..processing for perl-io-prompt-v0.997\r\n...perl-io-prompt-v0.997 needs perl-cpanminus\r\n"
+    ],
+    [
+      8.3e-05,
+      "...processing for perl-cpanminus-v1.7\r\n....perl-cpanminus-v1.7 needs perl-local-lib\r\n....processing for perl-local-lib-v2.000019\r\n.....perl-local-lib-v2.000019 needs perl\r\n.....processing for perl-v5.24.0\r\n.....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.01558,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.005622,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.004882,
+      "..checking for perl-io-prompt-v0.997\r\n"
+    ],
+    [
+      7.3e-05,
+      "..preparing 'perl-io-prompt' for x86_64/generic\r\n"
+    ],
+    [
+      0.001926,
+      "..building 'perl-io-prompt' for x86_64/generic"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-io-prompt-v0.997/perl-io-prompt-build-log"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-bioperl\r\n"
+    ],
+    [
+      0.000645,
+      "..processing for perl-bioperl-v1.6\r\n"
+    ],
+    [
+      0.000181,
+      "...perl-bioperl-v1.6 needs perl-DB_File\r\n"
+    ],
+    [
+      0.000641,
+      "...processing for perl-DB_File-v1.8\r\n"
+    ],
+    [
+      2.9e-05,
+      "....perl-DB_File-v1.8 needs perl\r\n"
+    ],
+    [
+      0.000919,
+      "....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000248,
+      "....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000157,
+      "....perl-DB_File-v1.8 needs berkeley-db\r\n"
+    ],
+    [
+      0.000821,
+      "....processing for berkeley-db-v6.2.23\r\n"
+    ],
+    [
+      0.000293,
+      "....checking for berkeley-db-v6.2.23\r\n"
+    ],
+    [
+      0.000123,
+      "....preparing 'berkeley-db' for x86_64/generic\r\n"
+    ],
+    [
+      0.000494,
+      "....Downloading 'db-6.2.23.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "....building 'berkeley-db' for x86_64/generic\r\n....details: /home/magrat/tmp/vc3-root/x86_64/generic/berkeley-db-v6.2.23/berkeley-db-build-log\r\n"
+    ],
+    [
+      2.0,
+      "...checking for perl-DB_File-v1.8\r\n"
+    ],
+    [
+      0.000207,
+      "...preparing 'perl-DB_File' for x86_64/generic\r\n"
+    ],
+    [
+      0.000175,
+      "...Downloading 'DB_File-1.838.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.278145,
+      "...building 'perl-DB_File' for x86_64/generic\r\n...details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-DB_File-v1.8/perl-DB_File-build-log\r\n"
+    ],
+    [
+      2.0,
+      "...perl-bioperl-v1.6 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000424,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.00014,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000503,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.2e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000541,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000179,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000315,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      9.5e-05,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      9.4e-05,
+      "...perl-bioperl-v1.6 needs berkeley-db\r\n"
+    ],
+    [
+      0.000572,
+      "...processing for berkeley-db-v6.2.23\r\n"
+    ],
+    [
+      0.000268,
+      "...checking for berkeley-db-v6.2.23\r\n"
+    ],
+    [
+      0.000134,
+      "...perl-bioperl-v1.6 needs perl-module-build\r\n"
+    ],
+    [
+      0.000787,
+      "...processing for perl-module-build-v0.4218\r\n"
+    ],
+    [
+      3.8e-05,
+      "....perl-module-build-v0.4218 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000712,
+      "....processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      3.1e-05,
+      ".....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000784,
+      ".....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      3.1e-05,
+      "......perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000799,
+      "......processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000211,
+      "......checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000372,
+      ".....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000158,
+      "....checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000161,
+      "...checking for perl-module-build-v0.4218\r\n"
+    ],
+    [
+      0.000141,
+      "...preparing 'perl-module-build' for x86_64/generic\r\n"
+    ],
+    [
+      0.002596,
+      "...building 'perl-module-build' for x86_64/generic"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "...details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-module-build-v0.4218/perl-module-build-build-log"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..checking for perl-bioperl-v1.6\r\n"
+    ],
+    [
+      0.000413,
+      "..preparing 'perl-bioperl' for x86_64/generic\r\n"
+    ],
+    [
+      0.002309,
+      "..building 'perl-bioperl' for x86_64/generic"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-bioperl-v1.6/perl-bioperl-build-log"
+    ],
+    [
+      4.6e-05,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-inline\r\n"
+    ],
+    [
+      0.000767,
+      "..processing for perl-inline-v0.8\r\n"
+    ],
+    [
+      3.4e-05,
+      "...perl-inline-v0.8 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000486,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.1e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000547,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.3e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000548,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000168,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000301,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000114,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000113,
+      "..checking for perl-inline-v0.8\r\n"
+    ],
+    [
+      8.6e-05,
+      "..preparing 'perl-inline' for x86_64/generic\r\n"
+    ],
+    [
+      0.00194,
+      "..building 'perl-inline' for x86_64/generic"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-inline-v0.8/perl-inline-build-log"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      1.396965,
+      "..maker-v2.31 needs perl-lwp-simple\r\n"
+    ],
+    [
+      0.000638,
+      "..processing for perl-lwp-simple-v6.15\r\n"
+    ],
+    [
+      0.000147,
+      "...perl-lwp-simple-v6.15 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.00035,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.1e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000587,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.2e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000597,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000174,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000299,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000111,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000115,
+      "..checking for perl-lwp-simple-v6.15\r\n"
+    ],
+    [
+      8.2e-05,
+      "..preparing 'perl-lwp-simple' for x86_64/generic\r\n"
+    ],
+    [
+      0.002317,
+      "..building 'perl-lwp-simple' for x86_64/generic"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-lwp-simple-v6.15/perl-lwp-simple-build-log"
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-forks\r\n"
+    ],
+    [
+      0.0008,
+      "..processing for perl-forks-v0.36\r\n"
+    ],
+    [
+      2.5e-05,
+      "...perl-forks-v0.36 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000365,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      9.7e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000579,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      1.9e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000594,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000162,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000304,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000115,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000115,
+      "..checking for perl-forks-v0.36\r\n"
+    ],
+    [
+      8.9e-05,
+      "..preparing 'perl-forks' for x86_64/generic\r\n"
+    ],
+    [
+      0.00192,
+      "..building 'perl-forks' for x86_64/generic"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-forks-v0.36/perl-forks-build-log"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs ncbi-blast\r\n"
+    ],
+    [
+      0.000929,
+      "..processing for ncbi-blast-v2.2.28\r\n"
+    ],
+    [
+      3e-05,
+      "...ncbi-blast-v2.2.28 needs sqlite3\r\n"
+    ],
+    [
+      0.000842,
+      "...processing for sqlite3-v3.13\r\n"
+    ],
+    [
+      0.000417,
+      "...checking for sqlite3-v3.13\r\n"
+    ],
+    [
+      0.000187,
+      "...ncbi-blast-v2.2.28 needs python\r\n"
+    ],
+    [
+      0.000829,
+      "...processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000379,
+      "...checking for python-v2.7.12\r\n...ncbi-blast-v2.2.28 needs zlib\r\n"
+    ],
+    [
+      0.001287,
+      "...processing for zlib-v1.2.8\r\n...checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000168,
+      "...ncbi-blast-v2.2.28 needs perl\r\n"
+    ],
+    [
+      0.000878,
+      "...processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.00022,
+      "...checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000194,
+      "...ncbi-blast-v2.2.28 needs pcre\r\n"
+    ],
+    [
+      0.000772,
+      "...processing for pcre-v8.39\r\n"
+    ],
+    [
+      0.000433,
+      "...checking for pcre-v8.39\r\n"
+    ],
+    [
+      0.000516,
+      "..checking for ncbi-blast-v2.2.28\r\n"
+    ],
+    [
+      0.000151,
+      "..maker-v2.31 needs perl-inline-c\r\n"
+    ],
+    [
+      0.000857,
+      "..processing for perl-inline-c-v0.76\r\n"
+    ],
+    [
+      4.9e-05,
+      "...perl-inline-c-v0.76 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000739,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      3.2e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000803,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      3.6e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000797,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000243,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000416,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000172,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000174,
+      "..checking for perl-inline-c-v0.76\r\n"
+    ],
+    [
+      0.000134,
+      "..preparing 'perl-inline-c' for x86_64/generic\r\n"
+    ],
+    [
+      0.002252,
+      "..building 'perl-inline-c' for x86_64/generic\r\n"
+    ],
+    [
+      0.000192,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-inline-c-v0.76/perl-inline-c-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs snap\r\n"
+    ],
+    [
+      0.000755,
+      "..processing for snap-v2013.11.29\r\n"
+    ],
+    [
+      2.2e-05,
+      "...snap-v2013.11.29 needs perl\r\n"
+    ],
+    [
+      0.000575,
+      "...processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000178,
+      "...checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000279,
+      "..checking for snap-v2013.11.29\r\n"
+    ],
+    [
+      9.3e-05,
+      "..preparing 'snap' for x86_64/generic\r\n"
+    ],
+    [
+      0.000407,
+      "..Downloading 'snap-2013-11-29.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.639717,
+      "..building 'snap' for x86_64/generic"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.000265,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/snap-v2013.11.29/snap-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-want\r\n"
+    ],
+    [
+      0.000698,
+      "..processing for perl-want-v0.29\r\n"
+    ],
+    [
+      0.000153,
+      "...perl-want-v0.29 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.00041,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.2e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000556,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.1e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000559,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000174,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000313,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000112,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000174,
+      "..checking for perl-want-v0.29\r\n"
+    ],
+    [
+      3.9e-05,
+      "..preparing 'perl-want' for x86_64/generic\r\n"
+    ],
+    [
+      0.001964,
+      "..building 'perl-want' for x86_64/generic"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-want-v0.29/perl-want-build-log"
+    ],
+    [
+      0.00014,
+      "\r\n"
+    ],
+    [
+      1.806426,
+      "..maker-v2.31 needs perl-forks-shared\r\n"
+    ],
+    [
+      0.000521,
+      "..processing for perl-forks-shared-v0.36\r\n"
+    ],
+    [
+      0.000162,
+      "...perl-forks-shared-v0.36 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000375,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.1e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000547,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.1e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000553,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000179,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000336,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000113,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000118,
+      "..checking for perl-forks-shared-v0.36\r\n"
+    ],
+    [
+      0.000115,
+      "..preparing 'perl-forks-shared' for x86_64/generic\r\n"
+    ],
+    [
+      0.002048,
+      "..building 'perl-forks-shared' for x86_64/generic"
+    ],
+    [
+      5.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-forks-shared-v0.36/perl-forks-shared-build-log"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.357772,
+      "..maker-v2.31 needs perl-dbi\r\n"
+    ],
+    [
+      0.000488,
+      "..processing for perl-dbi-v1.6\r\n"
+    ],
+    [
+      2.7e-05,
+      "...perl-dbi-v1.6 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000519,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.2e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000583,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.8e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000544,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000181,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000335,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000112,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000122,
+      "..checking for perl-dbi-v1.6\r\n"
+    ],
+    [
+      0.000107,
+      "..preparing 'perl-dbi' for x86_64/generic\r\n"
+    ],
+    [
+      0.002325,
+      "..building 'perl-dbi' for x86_64/generic"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-dbi-v1.6/perl-dbi-build-log"
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.390768,
+      "..maker-v2.31 needs perl-io-all\r\n"
+    ],
+    [
+      0.00051,
+      "..processing for perl-io-all-v0.86\r\n"
+    ],
+    [
+      9.3e-05,
+      "...perl-io-all-v0.86 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000509,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      2.1e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib"
+    ],
+    [
+      1.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000608,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      1.8e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.00059,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000219,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000348,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.00015,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000215,
+      "..checking for perl-io-all-v0.86\r\n"
+    ],
+    [
+      9.7e-05,
+      "..preparing 'perl-io-all' for x86_64/generic\r\n"
+    ],
+    [
+      0.002976,
+      "..building 'perl-io-all' for x86_64/generic\r\n..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-io-all-v0.86/perl-io-all-build-log\r\n"
+    ],
+    [
+      0.318477,
+      "..maker-v2.31 needs exonerate\r\n"
+    ],
+    [
+      0.000901,
+      "..processing for exonerate-v2.2.0\r\n"
+    ],
+    [
+      0.000102,
+      "...exonerate-v2.2.0 needs glib\r\n"
+    ],
+    [
+      0.000389,
+      "...processing for glib-v2.18.1\r\n"
+    ],
+    [
+      0.000119,
+      "....glib-v2.18.1 needs pcre\r\n"
+    ],
+    [
+      0.000398,
+      "....processing for pcre-v8.39\r\n"
+    ],
+    [
+      0.00032,
+      "....checking for pcre-v8.39\r\n"
+    ],
+    [
+      0.000146,
+      "....glib-v2.18.1 needs gettext\r\n"
+    ],
+    [
+      0.00055,
+      "....processing for gettext-v0.19.8\r\n"
+    ],
+    [
+      0.000322,
+      "....checking for gettext-v0.19.8\r\n"
+    ],
+    [
+      0.000104,
+      "....preparing 'gettext' for x86_64/generic\r\n"
+    ],
+    [
+      0.000371,
+      "....Downloading 'gettext-0.19.8.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "....building 'gettext' for x86_64/generic\r\n....details: /home/magrat/tmp/vc3-root/x86_64/generic/gettext-v0.19.8/gettext-build-log\r\n"
+    ],
+    [
+      2.0,
+      "....glib-v2.18.1 needs libffi\r\n"
+    ],
+    [
+      0.000533,
+      "....processing for libffi-v3.2.1\r\n"
+    ],
+    [
+      0.000335,
+      "....checking for libffi-v3.2.1\r\n"
+    ],
+    [
+      0.000532,
+      "....preparing 'libffi' for x86_64/generic\r\n"
+    ],
+    [
+      8.2e-05,
+      "....Downloading 'libffi-3.2.1.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.421142,
+      "....building 'libffi' for x86_64/generic"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "....details: /home/magrat/tmp/vc3-root/x86_64/generic/libffi-v3.2.1/libffi-build-log"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "....glib-v2.18.1 needs zlib\r\n"
+    ],
+    [
+      0.000588,
+      "....processing for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000422,
+      "....checking for zlib-v1.2.8\r\n"
+    ],
+    [
+      0.000187,
+      "....glib-v2.18.1 needs python\r\n"
+    ],
+    [
+      0.00058,
+      "....processing for python-v2.7.12\r\n"
+    ],
+    [
+      0.000182,
+      "....checking for python-v2.7.12\r\n"
+    ],
+    [
+      0.000494,
+      "...checking for glib-v2.18.1\r\n"
+    ],
+    [
+      0.00014,
+      "...preparing 'glib' for x86_64/generic\r\n"
+    ],
+    [
+      0.000395,
+      "...Downloading 'glib-2.48.1.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "...building 'glib' for x86_64/generic"
+    ],
+    [
+      6.3e-05,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "...details: /home/magrat/tmp/vc3-root/x86_64/generic/glib-v2.18.1/glib-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..checking for exonerate-v2.2.0\r\n"
+    ],
+    [
+      0.000158,
+      "..preparing 'exonerate' for x86_64/generic\r\n"
+    ],
+    [
+      0.00022,
+      "..Downloading 'exonerate-2.2.0.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      0.373703,
+      "..building 'exonerate' for x86_64/generic\r\n..details: /home/magrat/tmp/vc3-root/x86_64/generic/exonerate-v2.2.0/exonerate-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-unsafe-signals\r\n..processing for perl-unsafe-signals-v0.03\r\n...perl-unsafe-signals-v0.03 needs perl-cpanminus\r\n...processing for perl-cpanminus-v1.7\r\n....perl-cpanminus-v1.7 needs perl-local-lib\r\n....processing for perl-local-lib-v2.000019\r\n.....perl-local-lib-v2.000019 needs perl\r\n.....processing for perl-v5.24.0\r\n.....checking for perl-v5.24.0\r\n....checking for perl-local-lib-v2.000019\r\n...checking for perl-cpanminus-v1.7\r\n..checking for perl-unsafe-signals-v0.03\r\n..preparing 'perl-unsafe-signals' for x86_64/generic\r\n"
+    ],
+    [
+      0.056678,
+      "..building 'perl-unsafe-signals' for x86_64/generic\r\n..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-unsafe-signals-v0.03/perl-unsafe-signals-build-log\r\n"
+    ],
+    [
+      2.0,
+      "..maker-v2.31 needs perl-bit-vector\r\n"
+    ],
+    [
+      0.000875,
+      "..processing for perl-bit-vector-v7.4\r\n"
+    ],
+    [
+      0.000164,
+      "...perl-bit-vector-v7.4 needs perl-cpanminus\r\n"
+    ],
+    [
+      0.000591,
+      "...processing for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      3.7e-05,
+      "....perl-cpanminus-v1.7 needs perl-local-lib\r\n"
+    ],
+    [
+      0.000895,
+      "....processing for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      2.8e-05,
+      ".....perl-local-lib-v2.000019 needs perl\r\n"
+    ],
+    [
+      0.000862,
+      ".....processing for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000309,
+      ".....checking for perl-v5.24.0\r\n"
+    ],
+    [
+      0.000507,
+      "....checking for perl-local-lib-v2.000019\r\n"
+    ],
+    [
+      0.000199,
+      "...checking for perl-cpanminus-v1.7\r\n"
+    ],
+    [
+      0.000193,
+      "..checking for perl-bit-vector-v7.4\r\n"
+    ],
+    [
+      0.00016,
+      "..preparing 'perl-bit-vector' for x86_64/generic\r\n"
+    ],
+    [
+      0.002602,
+      "..building 'perl-bit-vector' for x86_64/generic"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "..details: /home/magrat/tmp/vc3-root/x86_64/generic/perl-bit-vector-v7.4/perl-bit-vector-build-log"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      2.0,
+      ".checking for maker-v2.31\r\n"
+    ],
+    [
+      0.000195,
+      ".preparing 'maker' for x86_64/generic\r\n"
+    ],
+    [
+      0.014127,
+      ".building 'maker' for x86_64/generic"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      ".details: /home/magrat/tmp/vc3-root/x86_64/generic/maker-v2.31/maker-build-log"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "checking for maker-example-ecoli-01-v1\r\n"
+    ],
+    [
+      8.5e-05,
+      "preparing 'maker-example-ecoli-01' for x86_64/generic"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      0.000665,
+      "Downloading 'maker-example-ecoli-01.tar.gz' from http://download.virtualclusters.org/repository\r\n"
+    ],
+    [
+      2.0,
+      "building 'maker-example-ecoli-01' for x86_64/generic\r\n"
+    ],
+    [
+      9.3e-05,
+      "details: /home/magrat/tmp/vc3-root/x86_64/generic/maker-example-ecoli-01-v1/maker-example-ecoli-01-build-log\r\n"
+    ],
+    [
+      2.0,
+      "building phase done!\r\n"
+    ],
+    [
+      0.00367,
+      "$ "
+    ],
+    [
+      1.644393,
+      "c"
+    ],
+    [
+      0.208246,
+      "d"
+    ],
+    [
+      0.654831,
+      " "
+    ],
+    [
+      0.562534,
+      "m"
+    ],
+    [
+      0.097537,
+      "a"
+    ],
+    [
+      0.182115,
+      "k"
+    ],
+    [
+      0.556332,
+      "e"
+    ],
+    [
+      0.181872,
+      "r"
+    ],
+    [
+      0.247962,
+      "-"
+    ],
+    [
+      0.211166,
+      "e"
+    ],
+    [
+      0.222405,
+      "x"
+    ],
+    [
+      0.252575,
+      "a"
+    ],
+    [
+      0.088213,
+      "m"
+    ],
+    [
+      0.191222,
+      "p"
+    ],
+    [
+      0.205539,
+      "l"
+    ],
+    [
+      0.131507,
+      "e"
+    ],
+    [
+      0.112666,
+      "-"
+    ],
+    [
+      0.195677,
+      "e"
+    ],
+    [
+      0.237657,
+      "c"
+    ],
+    [
+      0.117954,
+      "o"
+    ],
+    [
+      0.151825,
+      "l"
+    ],
+    [
+      0.205784,
+      "i"
+    ],
+    [
+      0.246635,
+      "-"
+    ],
+    [
+      0.571199,
+      "0"
+    ],
+    [
+      0.117279,
+      "1"
+    ],
+    [
+      0.457459,
+      "\r\n$ "
+    ],
+    [
+      0.514323,
+      "c"
+    ],
+    [
+      0.229503,
+      "a"
+    ],
+    [
+      0.191175,
+      "t"
+    ],
+    [
+      0.128142,
+      " "
+    ],
+    [
+      0.250491,
+      "R"
+    ],
+    [
+      0.213478,
+      "E"
+    ],
+    [
+      0.245421,
+      "A"
+    ],
+    [
+      0.254186,
+      "D"
+    ],
+    [
+      0.254818,
+      "M"
+    ],
+    [
+      0.125119,
+      "E"
+    ],
+    [
+      0.480772,
+      "\r\n"
+    ],
+    [
+      0.022299,
+      "To run the maker example:\r\n\r\n$ maker -EXE\r\n$ maker -BOPTS\r\n$ maker \r\n\r\n"
+    ],
+    [
+      0.000269,
+      "$ "
+    ],
+    [
+      2.0,
+      "m"
+    ],
+    [
+      0.1034,
+      "a"
+    ],
+    [
+      0.10869,
+      "k"
+    ],
+    [
+      0.124738,
+      "e"
+    ],
+    [
+      0.190477,
+      "r"
+    ],
+    [
+      0.560447,
+      " "
+    ],
+    [
+      0.205054,
+      "-"
+    ],
+    [
+      0.274544,
+      "E"
+    ],
+    [
+      0.317114,
+      "X"
+    ],
+    [
+      0.27842,
+      "E"
+    ],
+    [
+      0.496003,
+      "\r\n"
+    ],
+    [
+      1.879605,
+      "$ "
+    ],
+    [
+      0.570949,
+      "m"
+    ],
+    [
+      0.13985,
+      "a"
+    ],
+    [
+      0.086122,
+      "k"
+    ],
+    [
+      0.143165,
+      "e"
+    ],
+    [
+      0.214382,
+      "r"
+    ],
+    [
+      0.13607,
+      " "
+    ],
+    [
+      0.260985,
+      "-"
+    ],
+    [
+      0.579025,
+      "B"
+    ],
+    [
+      0.222747,
+      "O"
+    ],
+    [
+      0.159614,
+      "P"
+    ],
+    [
+      0.475319,
+      "T"
+    ],
+    [
+      0.385806,
+      "S"
+    ],
+    [
+      1.232146,
+      "\r\n"
+    ],
+    [
+      0.99338,
+      "$ "
+    ],
+    [
+      1.032405,
+      "m"
+    ],
+    [
+      0.140842,
+      "a"
+    ],
+    [
+      0.120337,
+      "k"
+    ],
+    [
+      0.123895,
+      "e"
+    ],
+    [
+      0.198859,
+      "r"
+    ],
+    [
+      0.376583,
+      "\r\n"
+    ],
+    [
+      0.934822,
+      "STATUS: Parsing control files...\r\n"
+    ],
+    [
+      0.096236,
+      "STATUS: Processing and indexing input FASTA files...\r\n"
+    ],
+    [
+      0.06145,
+      "STATUS: Setting up database for any GFF3 input...\r\n"
+    ],
+    [
+      0.019122,
+      "A data structure will be created for you at:\r\n/home/magrat/tmp/vc3-root/vc3-home/maker-example-ecoli-01/test_genome.maker.output/test_genome_datastore\r\n\r\nTo access files for individual sequences use the datastore index:\r\n/home/magrat/tmp/vc3-root/vc3-home/maker-example-ecoli-01/test_genome.maker.output/test_genome_master_datastore_index.log\r\n\r\n"
+    ],
+    [
+      0.000279,
+      "STATUS: Now running MAKER...\r\nexamining contents of the fasta file and run log\r\n\r\n\r\n\r\n--Next Contig--\r\n\r\n"
+    ],
+    [
+      0.033199,
+      "#---------------------------------------------------------------------\r\nNow starting the contig!!\r\nSeqID: Chr1\r\nLength: 100000\r\n#---------------------------------------------------------------------\r\n\r\n\r\n"
+    ],
+    [
+      0.000315,
+      "setting up GFF3 output and fasta chunks\r\ndoing repeat masking\r\n"
+    ],
+    [
+      2.0,
+      "#"
+    ],
+    [
+      0.226544,
+      "."
+    ],
+    [
+      0.226544,
+      "."
+    ],
+    [
+      0.373876,
+      "."
+    ],
+    [
+      0.114457,
+      "a"
+    ],
+    [
+      0.103829,
+      "n"
+    ],
+    [
+      0.110595,
+      "d"
+    ],
+    [
+      0.092144,
+      " "
+    ],
+    [
+      0.10944,
+      "s"
+    ],
+    [
+      0.13648,
+      "o"
+    ],
+    [
+      0.126514,
+      " "
+    ],
+    [
+      0.405135,
+      "o"
+    ],
+    [
+      0.172795,
+      "n"
+    ],
+    [
+      0.081136,
+      " "
+    ],
+    [
+      0.162354,
+      "f"
+    ],
+    [
+      0.086214,
+      "o"
+    ],
+    [
+      0.101508,
+      "r"
+    ],
+    [
+      0.104581,
+      " "
+    ],
+    [
+      0.377937,
+      "a"
+    ],
+    [
+      0.155816,
+      " "
+    ],
+    [
+      0.256354,
+      "w"
+    ],
+    [
+      0.095859,
+      "h"
+    ],
+    [
+      0.173715,
+      "i"
+    ],
+    [
+      0.222518,
+      "l"
+    ],
+    [
+      0.118021,
+      "e"
+    ],
+    [
+      0.197914,
+      "."
+    ],
+    [
+      0.205736,
+      "."
+    ],
+    [
+      0.22998,
+      "."
+    ],
+    [
+      0.718745,
+      "\r\n"
+    ],
+    [
+      0.179184,
+      "$ "
+    ],
+    [
+      1.351212,
+      "e"
+    ],
+    [
+      0.254587,
+      "x"
+    ],
+    [
+      0.151271,
+      "i"
+    ],
+    [
+      0.156591,
+      "t"
+    ],
+    [
+      0.432736,
+      "\r\n"
+    ],
+    [
+      0.131248,
+      "% "
+    ],
+    [
+      0.679587,
+      "e"
+    ],
+    [
+      0.228955,
+      "x"
+    ],
+    [
+      0.119797,
+      "i"
+    ],
+    [
+      0.181326,
+      "t"
+    ],
+    [
+      0.49618,
+      "\r\n"
+    ]
+  ],
+  "title": null,
+  "height": 25,
+  "env": {
+    "SHELL": "/bin/zsh",
+    "TERM": "screen-256color"
+  },
+  "version": 1,
+  "width": 90
+}
